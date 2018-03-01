@@ -1,0 +1,851 @@
+
+    <!--Header-->
+    <div class="container">
+    </div>
+
+<header id="site-header">
+
+    
+
+    <!--Header: Mid--->
+    <div class="header-mid">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="logo sm-center">
+                        <a href="http://baahrakhari.com/" title="">
+                            <img width="" height="" src="http://baahrakhari.com/assets/images/logo.png" alt="">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="nav-ticker-wrapper" class="affix-top">
+        <!--Site Navigation-->
+        <div class="site-navigation box-shadow-all-equal">
+            <div class="container">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand visible-sm visible-xs" href="http://baahrakhari.com/"><img src="http://baahrakhari.com/assets/images/logo.png" alt="12Khari"></a>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li><a href="http://baahrakhari.com/">गृहपृष्ठ <span class="sr-only">(current)</span></a></li>
+
+                                <li><a href="http://baahrakhari.com/special-news/1/विशेष">विशेष </a></li>
+
+                                <li><a href="http://baahrakhari.com/news-article/1/Politics">राजनीति</a></li><li><a href="http://baahrakhari.com/news-article/2/Economy">अर्थ व्यवसाय</a></li><li><a href="http://baahrakhari.com/news-article/3/Sports">खेल</a></li><li><a href="http://baahrakhari.com/news-article/4/Interview">अन्तर्वार्ता</a></li><li><a href="http://baahrakhari.com/news-article/6/Thought">विचार</a></li><li><a href="http://baahrakhari.com/news-article/7/Country">देश</a></li><li><a href="http://baahrakhari.com/news-article/8/12khari-samikchya">बाह्रखरी समीक्षा</a></li><li><a href="http://baahrakhari.com/news-article/9/Literature">साहित्य र कला</a></li><li><a href="http://baahrakhari.com/news-article/12/Blog">ब्लग</a></li><li><a href="http://baahrakhari.com/news-article/14/Editorial">सम्पादकीय</a></li><li><a href="http://baahrakhari.com/news-article/18/Foreign">विदेश</a></li>
+
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ग्यालरी<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="http://baahrakhari.com/photo-gallery/1/Cartoon">कार्टुन</a></li>            
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/photo-gallery/2/Photo">फोटो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/page-video">भीडियो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                       <!-- <li><a href="http://baahrakhari.com/">अडियो</a></li>
+                                        -->
+                                    </ul>
+                                </li>
+
+
+                            </ul>
+                            
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
+             </div>
+</header>
+    <!--Section-->
+    <section id="site-section">
+        <div class="container">
+            <div class="row margin-bottom ">
+                <div class="col-md-8">
+                    <article class="module bg-white">
+                        <header>
+                            <h2>खेल</h2>
+                        </header>
+                        <section>
+                            <ul class="page-news-list">
+
+                            <li>
+                    <h3><a href="http://baahrakhari.com/news-details/49595/2018-03-01" title="">जापानी सरकारले एन्फालाई सहयोग</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १७ बिहीबार  ०२:३९:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौँ । सातदोबाटोस्थित अखिल नेपाल फुटबल संघ (एन्फा) कम्प्लेक्स मैदानको भौतिक पूर्वाधार निर्माणका लागि रु ७४ लाख सहयोग गर्ने भएको छ ।&nbsp;
+
+जापानी दूतावासद्वारा आज यहाँ आयोजित कार्यक्रममा नेपालका लागि जापानी राजदूत मासासी ओगावा र एन्फाका महासचिव धीरेन्द्र प्रधानले सम्झौतापत्रमा हस्ताक्षर गरे...</p>
+            </li>
+
+            <li>
+                    <h3><a href="http://baahrakhari.com/news-details/49607/2018-02-28" title="">सर्वाधिक राशीको महिला फुटसल हुँदै</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49607/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/195333871020180228_143543.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/195333871020180228_143543.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १९:११:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । सर्वाधिक राशीको महिला फुटसल प्रतियोगिता हुने भएको छ । कुमारी फुटसलले काठमाडौंमा बुधबार पत्रकार सम्मेलन गरेर प्रतियोगिताको बारेमा जानकारी दिएको हो ।
+
+प्रतियोगिता फागुन १९ गते कुमारी फुटसलमा हुनेछ । प्रतियोगितामा १६ टिमले भाग लिदै छन् । लिग कम नकआउटको आधारमा हुने प्रतियोगिताको समूह ए मा...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49601/2018-02-28" title="">पुरुषतर्फको क्वाटरफाइनल समीकरण पूरा</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49601/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/2778978203.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/2778978203.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १८:५३:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । चौथो एनएसटी–एनभिए राष्ट्रिय महिला तथा पुरुष भलिबल प्रतियोगिताको पुरुषतर्फको क्वाटरफाइनल समिकरण पुरा भएको छ । पुरुषतर्फ बुधबार सम्पन्न खेलमा मणिमुकुन्द भलिबल क्लब, नयाँ बजार सामाजिक क्लब र जालवलाखेलले जित हात पारेका छन् ।
+
+त्रिपुरेश्वरको कभर्डहलमा भएको खेलमा मणिमुकुन्द भलिबल क्लब...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49588/2018-02-28" title="">नेपाली फुटबलको विकासमा जापानको सहयोग</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १६:३०:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । नेपाली फुटबलको विकासमा जापानी राजदुतावास र अखिल नेपाल फुटबल संघ एन्फाबीच सम्झौता भएको छ । जापान सरकारले ग्रान्ट असिस्टेन्ट फर कल्चरल ग्रास रुट्स प्रोजेक्ट (जीसीजीपी) अन्तर्गत नेपाली फुटबलको भौतिक संरचना पुन निर्माण गर्न ७१ लाखभन्दा बढि रकम सहयोग गर्ने भएको हो ।
+
+एन्फा र जापानी...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49587/2018-02-28" title="">दोस्रो एक दिवसीय खेलमा इंग्ल्याण्ड विजयी</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49587/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/921545572273565.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/921545572273565.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १५:१२:००</li>
+                            </ul>
+                    </div>
+                    <p>एजेन्सी । न्यूजील्याण्डसँगको दोस्रो एक दिवसीय क्रिकेट खेलमा इंग्ल्याण्डले जित हात पारेको छ । इंग्ल्याण्डले न्युजील्याण्डलाई ६ विकेटले पराजित गरेको हो ।&nbsp;
+२२४ रनको चुनौति पछ्याउदै ब्याटिङ गरेको इंग्ल्याण्डले निर्धारित ३७.४ ओभरमा ४ विकेटको क्षतिमा लक्ष्य पुरा गर्‍यो । इंग्ल्याण्डको जितमा बेन...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49562/2018-02-28" title="">स्वान्सी सिटी एफए कपको क्वाटरफाइनलमा</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49562/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1543837642Sheffield-Wednesday-vs-Swansea-682357.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1543837642Sheffield-Wednesday-vs-Swansea-682357.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०७:५१:००</li>
+                            </ul>
+                    </div>
+                    <p>एजेन्सी । स्वान्सी सिटी एफए कप फुटबलको क्वाटरफाइनलमा प्रवेश गरेको छ । शेफिल्ड वेड्नस्डेलाई २–० गोलअन्तरले पराजित गर्दै स्वान्सी अन्तिम आठमा प्रवेश गरेको हो ।
+
+आफ्नो घरेलु लिबर्टी रंगशालामा भएको खेलमा शेफिल्डमाथि जित हात पार्दै स्वान्सी सन् १९६४ पछि एफए कपको क्वाटरफाइनलमा पहिलो पटक पुगेको हो ।...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49561/2018-02-28" title="">स्पानियोलसँग रियल मड्रिड पराजित&nbsp;</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49561/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/202917252_100208249_espanyol.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/202917252_100208249_espanyol.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०७:४८:००</li>
+                            </ul>
+                    </div>
+                    <p>एजेन्सी । रियल मड्रिडले स्पेनिस ला लिग लिग फुटबलमा हार बेहोरेको छ । रियल स्पानियोलसँग १–० गोलअन्तरले पराजित भएको हो ।
+
+घरेलु मैदानमा भएको खेलमा स्पानियोलले अन्तिम समयमा आएर गोल गर्दै रियल मड्रिडमाथि जित हात पारेको हो । स्पानियोललाई जित दिलाउनका लागि जेरार्ड मोरेनोले गोल गरे । उनकै एक मात्र...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49553/2018-02-28" title="">तेस्रो झापा गोल्डकप फागुन १९ गतेदेखि शुरू&nbsp;हुने</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०३:२७:००</li>
+                            </ul>
+                    </div>
+                    <p>सुरुङ्गा । मोफसलकै सर्वाधिक पुरस्कार राशि भएको तेस्रो झापा गोल्डकप फुटबल प्रतियोगिता यही फागुन १९ गतेदेखि शुरु हुने भएको छ ।&nbsp;
+
+बिर्तामोडस्थित डोमालाल राजवंशी रंगशालामा हुने सो प्रतियोगितामा भारतको सिक्किम युनाइटेड क्लव, तीन विभागीय टोलीसहित १० टोलीको सहभागिता रहने आज बिर्तामोडमा आयोजित पत्रकार...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49560/2018-02-27" title="">अभ्यास खेलमा नेपालद्वारा युएई ५ विकेटले पराजित</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49560/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1238076224Nepal.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1238076224Nepal.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  २१:१२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आईसीसी विश्वकप छनोटको अभ्यास खेलमा नेपालले जित हात पारेको छ । मंगलबार भएको आफ्नो पहिलो अभ्यास खेलमा नेपालले युएईलाई ५ विकेटले पराजित गरेको हो ।
+२९ ओभरमा २७२ रनको चुनौती पछ्याउँदै ब्याटिङ गरेको नेपालले निर्धारित ओभर सकिन ४ बल बाँकी छँदै ५ विकेटको क्षतिमा लक्ष्य पुरा गरेको हो ।
+नेपालको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49534/2018-02-27" title="">युएईद्वारा नेपाललाई १७२ रनको चुनौती</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49534/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/2057789067Nepal.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/2057789067Nepal.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १८:४७:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत अभ्यास खेलमा युएईले नेपाललाई १७२ रनको चुनौती दिएको छ । वर्षाका कारण २९ ओभरमा छोट्याइएको खेलमा युएईले ओभर सकिन १ बल बाँकी छँदा सबै विकेटको क्षतिमा १७१ रन बनाएको हो ।
+
+युएईका लागि अश्फक अहमदले ४२ रन बनाए । त्यस्तै, युएईका एडन मुफ्तीले ३७, घुलाम सब्बिरले ३२,...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49530/2018-02-27" title="">गोल्डेन गेट च्याम्पियन</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49530/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/15915531801-(1).jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/15915531801-(1).jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १८:३४:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । ग्रिनफिल्ड कप अन्तर कलेज बास्केटबल प्रतियोगितामा गोल्डेन गेट कलेज च्याम्पियन बनेको छ । मंगलबार भएको फाइनल खेलमा गोल्डेनगेटले प्राइम कलेजमाथी ६२–६० को रोमाञ्चक जित निकाल्दै च्याम्पियन बनेको हो ।
+
+बाफलस्थित आयोजकको कोर्टमा भएको फाइनल खेलमा गोल्डेनगेटले पहिलो क्वाटरमा १५–१५ को...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49529/2018-02-27" title="">न्यु डायमण्ड र आर्मी सेमिफाईनलमा</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49529/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/6737644005.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/6737644005.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १८:३०:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । चौथो एनएसटी–एनभिए राष्ट्रिय महिला तथा पुरुष भलिबल प्रतियोगितामा शिवम् न्यु डायमण्ड र आर्मी सेमिफाईनलमा &nbsp;प्रवेश गरेका छन् । मंगलबार भएको महिलातर्फको लिग खेलमा न्यु डायमण्ड र आर्मीले जित हात पार्दै सेमिफाइनल यात्रा तय गरेका हुन् ।
+न्यु डायमण्डले ढोरपाटन स्पोर्टस् क्लबलाई २५–६,...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49526/2018-02-27" title="">युएईको चौथो विकेट पतन, ललितले लिए विकेट</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १७:४६:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत अभ्यास खेलमा टस जितेर पहिले ब्याटिङ गरेको युएईले चौथो विकेट गुमाएको छ । नेपालका लागि ललितनारायण राजवंशीले चौथो विकेट लिएका हुन् ।
+
+ललितनारायणले अश्फक अहमदलाई ४२ रनमा आउट गराए । ललितनारायणले २ विकेट लिई सकेका छन् । उनी पहिलो पटक सिनियर टिममा परेका हुन्...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49524/2018-02-27" title="">युएईको तेस्रो विकेट पतन</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १७:३२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत अभ्यास खेलमा टस जितेर पहिले ब्याटिङ गरेको युएईले तेस्रो विकेट गुमाएको छ । नेपालका लागि ललितनारायण राजवंशीले तेस्रो विकेट लिएका हुन् ।
+
+तेस्रो विकेटको रुपमा युएईका रमिज शाहजाद शुन्य रनमा आउट भए । यसअघि दोस्रो विकेटको रुपमा कप्तान पारस खड्काले घुलाम...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49522/2018-02-27" title="">नेपालका कप्तान पारसले लिए यूएईको दोस्रो विकेट</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49522/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/532156199IMG_3868---Copy.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/532156199IMG_3868---Copy.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १७:१७:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत अभ्यास खेलमा टस जितेर पहिले ब्याटिङ गरेको युएईले दोस्रो विकेट गुमाएको छ । नेपालका लागि कप्तान पारस खड्काले दोस्रो विकेट लिएका हुन् ।
+
+युएईले दोस्रो विकेटको रुपमा घुलाम सब्बरलाई ३२ रनमा गुमाएको हो । अहिले युएईको १४ ओभरको समाप्तिमा २ विकेटको क्षतिमा ७१...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49517/2018-02-27" title="">युएईको पहिलो विकेट पतन, नेपालका ललितले लिए विकेट</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49517/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1912032104Nepal.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1912032104Nepal.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १६:३०:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत अभ्यास खेलमा टस जितेर पहिले ब्याटिङ गरेको युएईले दोस्रो ओभरमा नै विकेट गुमाएको छ । युएईले पहिलो विकेटको रुपमा कप्तान रोहन मुस्ताफालाई गुमाएको हो ।
+
+नेपालका लागि ललित भण्डारीले मुस्ताफालाई ४ रनमा आउट गराए । वर्षाबाट प्रभावित खेल २९ ओभरमा छोट्याइएको छ...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49510/2018-02-27" title="">यूएईले टस जित्यो, नेपाल बलिङ गर्दै</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49510/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/567340101Sports.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/567340101Sports.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १५:५२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत अभ्यास खेलमा युएईले टस जितेर पहिले ब्याटिङ गर्ने निर्णय गरेको छ । युएईले ब्याटिङ रोजेपछि नेपालले केहीबेरमा बलिङ गर्नेछ ।
+
+वर्षाबाट प्रभावित खेल २९ ओभरमा छोट्याइएको छ । निर्धारित समयभन्दा ३ घण्टा बढी&nbsp;समयपछि खेल सुरु हुनलागेको हो । क्वेक्वे स्पोर्ट्स...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49509/2018-02-27" title="">नेपाल र युएईबीचको अभ्यास खेल केही बेरमा सुरु हुने</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49509/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/567340101Sports.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/567340101Sports.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १५:४२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत नेपाल र युएईबीचको अभ्यास खेल केही बेरपछि सुरु हुने भएको छ । वर्षाबाट प्रभावित खेल २९ ओभरमा छोट्याइएको छ ।
+
+वर्षाको कारण नेपाल र युएईबीचको अभ्यास खेल समयमै हुन नसकेको हो । २९ ओभरमा छोट्याइएको खेलको टस केही बेरपछि हुनेछ । जिम्बावेको स्थानीय समयअनुसार १२...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49506/2018-02-27" title="">डीपीएललाई जगदम्बाको साथ</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49506/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/11727839528555252_1844230868973827_1438161402_o.png" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/11727839528555252_1844230868973827_1438161402_o.png" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १४:३७:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । सर्वाधिक पुरस्कार राशिको रुस्लान धनगढी प्रिमियर लिग (डीपीएल–२) क्रिकेट प्रतियोगितालाई जगदम्बा ईन्टरप्राइजेजको जगशक्ति टीएमटी बारले सहप्रायोजक गरेको छ । डीपीएल र जगशक्ति टीएमटी बारबीच मंगलबार काठमाडौंमा सम्झौता भएको हो ।
+
+सम्झौताअनुसार डीपीएल २ को सह–प्रायोजकका रुपमा जगशक्ति...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49497/2018-02-27" title="">नेपाल र युएईबीचको अभ्यास खेल वर्षाले प्रभावित</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49497/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/195757939228378810_920310971427373_7115301275394252464_n.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/195757939228378810_920310971427373_7115301275394252464_n.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १३:०१:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । आइसीसी विश्वकप छनोट क्रिकेटअन्तर्गत नेपाल र युएईबीचको अभ्यास खेल&nbsp;वर्षाबाट प्रभावित भएको छ । मैदान भिजेका&nbsp;कारण खेल केही समयपछि धकेलिने भएको हो ।
+
+नेपाली क्रिकेट टिमका टेक्निकल एनलाइसिस रमन शिवाकोटीका अनुसार वर्षाको कारण मैदान अहिले चिसो भएको छ । नेपाली समयअनुसार १ बजेर १५ मिनेटमा खेल...</p>
+            </li></ul>
+                        </section>
+                    </article>
+                    <article class="padding box-shadow bg-white margin-top module-pagination
+">
+                        <section>
+                            <nav>
+                                <ul class="pagination"><li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li><li class="active"><a href="#" id="1">1</a></li><li><a href="#" id="2">2</a></li><li><a href="#" id="3">3</a></li><li><a href="#" id="4">4</a></li><li><a href="#" id="2" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="232" aria-label="Last"><span aria-hidden="true">Last</span></a></li></ul>
+                            </nav>
+                        </section>
+                    </article>
+                </div>
+                <div class="col-md-4">
+
+    <div class="margin-bottom text-center margin-top">
+                            <a href="https://www.facebook.com/CGMotocorp/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/803832560celerio_275x220px-72px_BHARKHARI_COM.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://www.ncell.axiata.com/4G/About-4G" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/80748509270x180PXL-4G21CL_NcellAx.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.cerealestate.com.np/pages/Project_Details/?id=20" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/2099779500CE-Landing-Page.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://wwww.civilbank.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1278019402Civil-Bank-New.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.nepatop.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1157847850275-x-220.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://nepallife.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/988081201NepalLife-Smart-275pxX220px-Barkhari.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://goo.gl/ZZ3UY4" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1963259576joktantra-for-baarhakhari-final-(1).gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://broadlink.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1874835243gif.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://v2sr8.app.goo.gl/Q8OH" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/94722663received_1751936781505314.gif" class="">
+                            </a>
+                        </div>
+    <article class="module bg-white ">
+        <header>
+            <h2>धेरै पढिएको</h2>
+            <a href="http://baahrakhari.com/popular-news/1/लोकप्रिय" title="">थप <i class="fa fa-ellipsis-v"></i></a>
+        </header>
+        <section>
+            <ul class="title-list">										
+                <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49586/2018-02-28" title="">                                        
+                       ‘विप्लव’को घरमा पक्राउ पुर्जी टाँसियो
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49423/2018-02-26" title="">                                        
+                       यस्तो छ विश्वकप छनोट क्रिकेटको ट्रफी, भोलि यूएईसँग अभ्यास खेल खेल्दै नेपाल
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49494/2018-02-27" title="">                                        
+                       रेलबिनाको रेल विभाग, पुरानो लैजान भारतको प्रस्ताव
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49357/2018-02-25" title="">                                        
+                       नेपाली फुटबलमा म्याच फिक्सिङ चलिरहेकै छ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49419/2018-02-26" title="">                                        
+                       सेयर मार्केट भवनमा आगलागी, ४ दमकल परिचालन
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49246/2018-02-23" title="">                                        
+                       तेस्रो बर्खामा पनि पुनर्निर्माण अधुरै, दाताका सर्तैसर्त
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49324/2018-02-24" title="">                                        
+                       शेयर बजारः एक अर्ब ७० करोडको कारोबार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49452/2018-02-26" title="">                                        
+                       सांसद नै नरहेका व्यक्ति अर्थमन्त्री बनाएको भन्दै तरुण दलको आपत्ति&nbsp;
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49369/2018-02-25" title="">                                        
+                       ‘अर्बौंको सम्पत्ति तीन करोड नेपालीलाई’
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49544/2018-02-27" title="">                                        
+                       श्रीदेवीको निधनबारे विवाद, हत्या भएको आशंका
+                        </a></h3>
+                </li>            </ul>
+        </section>
+    </article>
+
+    <div class="clearfix"></div>
+
+
+    <div class="tabbing margin-top">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#tab-2-1" aria-controls="tab-2-1" role="tab" data-toggle="tab"> भर्खरै </a></li>          
+
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="tab-2-1">
+                <ul class="title-list">
+                    <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49606/2018-03-01" title="">                                        
+                       चिसापानी–वंशीलाघाट सडक सञ्चालनमा
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49605/2018-03-01" title="">                                        
+                       समयभित्रै निर्माण सम्पन्न गर्न मुख्यमन्त्री पौडेलको निर्देशन
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49602/2018-03-01" title="">                                        
+                       राष्ट्रिय कलाश्री सम्मान प्रा डा त्रिपाठीलाई
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49600/2018-03-01" title="">                                        
+                       संघीय संसदको अन्तरिम कार्यविधि पहिलो बैठकले पारित गर्ने
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49603/2018-03-01" title="">                                        
+                       समितिको जिम्मेवारी बाँडफाँड
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49595/2018-03-01" title="">                                        
+                       जापानी सरकारले एन्फालाई सहयोग
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49594/2018-03-01" title="">                                        
+                       विष्फोटक पदार्थसहित पक्राउ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49608/2018-03-01" title="">                                        
+                       युद्धविराम गर्न राष्ट्रसंघको पुनः आग्रह
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49604/2018-03-01" title="">                                        
+                       दुई महिलाको हत्यामा संलग्न सन्त पक्राउ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49615/2018-02-28" title="">                                        
+                       स्पेनको मेड्रिड सहर र काठमाडौंबीच भगिनी सम्बन्ध स्थापना &nbsp;
+                        </a></h3>
+                </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>            </div>
+        </div>
+    </section>
+
+    <!--Footer-->
+    
+<footer id="site-footer">
+    
+    <div class="footer-top box-shadow padding">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-md-3">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रधान सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>प्रतीक प्रधान</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                    <article class="fbox">
+                        <header>
+                            <h3>कार्यकारी सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>गोविन्द अधिकारी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>राजेश केसी</li>
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>समाचार सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+
+                                <li>बलराम पाण्डे </li>   
+                            </ul>
+                        </section>
+                    </article>
+
+                <article class="fbox">
+                        <header>
+                            <h3>कला-साहित्य सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लेनिन बन्जाडे</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-4">
+                    <article class="fbox">
+                        <header>
+                            <h3>संवाददाता</h3>
+                        </header>
+                        <section>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul>
+
+                                        <li>सन्तोष रिमाल (अमेरिका)</li>
+                                        <li>अक्षर काका </li>
+                                        <li>नरेश फुयाँल </li>
+                                        <li>केशव सावद </li>
+                                        <li>निशान राई</li>
+                                        <li>सुरञ्जन घिमिरे </li>
+                                        <li>विजेता चौधरी</li>
+
+                                        
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>शिवनारायण गिरी</li>
+                                        <li>सरोज तामाङ</li>
+                                        <li>विष्णु बश्याल </li>
+                                        <li>ममता घिमिरे </li>
+                                        <li>रुमु न्यौपाने </li>
+                                        <li>सञ्जिता खनाल </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>मल्टिमिडिया </h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सरिता खड्का </li>
+                                <li>सौरभ रानाभाट </li>
+                                <li>विजेन्द्र गिरी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>व्यवस्थापन</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सूर्य घिमिरे (उप–महाप्रवन्धक)</li>
+                                <li>तीर्थबहादुर थापा (अर्थ\प्रशासन)</li>
+                                <li>तुला चौधरी (लेखा)</li>
+                            </ul>
+                        </section>
+                    </article>
+                    <article class="fbox">
+                        <header>
+                            <h3>बिजनेस डेभलपमेन्ट</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li> जीवन तिम्सिना    </li>
+                                <li> चारु श्रेष्ठ </li>
+                                <li> शर्मिष्ठा पण्डित अमानी     </li>
+                            </ul>
+                        </section>
+                    </article> 
+                    <article class="fbox">
+                        <header>
+                            <h3>सहयोगी</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लक्ष्मण चाैधरी / लक्ष्मी भुजेल</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+               
+
+
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध  निर्देशक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>ज्ञानेश्वर अाचार्य</li>
+                            </ul>
+                        </section>
+                    </article>
+
+
+
+                </div>
+
+
+
+                <div class="col-md-offset-10 col-md-2">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <p>
+                        © २०१६ - २०१७ बाह्रखरीद्वारा प्रकाशित/सर्वाधिकार सुरक्षित
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <p class="pb en">
+                        Powered By: <a href="http://itechnepal.com" title="" target="_blank">i-Tech Nepal</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<div class="to-top">
+    <a href="#top">
+        <i class="fa fa-arrow-circle-o-up"></i>
+    </a>
+</div>
+
+<!--<div class="fb-msg-fixed visible-xs visible-sm">
+    <div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function () {
+            FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
+        };
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = '//connect.facebook.net/en_US/sdk.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+</div>-->
+<div class="fb-msg-fixed visible-xs visible-sm">
+                    <!--<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>-->
+</div>
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.webticker.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/owl.carousel.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.lazyload.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/custom.js?ver=1.0.1"></script>
+
+<script>
+    var sheight = $(".small-ad>a>img").height();
+    var lheight = $(".big-ad>a>img").height();
+
+    $(document).ready(function () {
+
+        $(".small-ad").css("top", lheight + 'px');
+        $("#large-ad").css("height", lheight);
+        $("#btn-collapse").click(function () {
+            ad_collapse();
+        });
+        $("#btn-expand").click(function () {
+            ad_expand();
+        });
+        setTimeout(ad_collapse, 4000);
+    });
+
+    function ad_collapse() {
+        $("#large-ad").css("height", sheight);
+        $(".small-ad").css("top", -lheight + 'px');
+    }
+
+    function ad_expand() {
+        $("#large-ad").css("height", lheight);
+        $(".small-ad").css("top", "0px");
+    }
+</script>
+
+  
+    
+
+    <script>
+        $('document').ready(function () {
+            $(".pagination a").trigger('click'); // When page is loaded we trigger a click
+        });
+
+        $('.pagination').on('click', 'a', function (e) {
+            var type = '3';
+            var page = this.id;
+            var perPage = '20';
+            var pagination = '';
+            var data = {'perPage': perPage, 'page': page, 'cat': type};
+            $.ajax({
+                url: 'http://baahrakhari.com/ajax/pagination.php',
+                type: 'POST',
+                data: data,
+                dataType: 'json',
+                success: function (response) {
+                    $('.page-news-list').html(response.newsList);
+                    $('html, body').animate({ scrollTop: 0 } , "slow");
+                    if (page == 1)
+                        pagination += '<li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+                    else
+                        pagination += '<li class=""><a href="#" id="1" aria-label="First"><span aria-hidden="true">First</span></a></li><li class=""><a href="#" id="' + (page - 1) + '" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+
+                    for (var i = parseInt(page) - 3; i <= parseInt(page) + 3; i++) {
+                        //	alert(i);
+                        if (i >= 1 && i <= response.numPage) {
+
+                            if (i == page)
+                                pagination += '<li class="active"><a href="#" id="' + i + '">' + i + '</a></li>';
+                            else
+                                pagination += '<li><a href="#" id="' + i + '">' + i + '</a></li>';
+
+                        } //end of if		  	
+                    } // end for loop
+
+                    if (page == response.numPage)
+                        pagination += '<li class="disabled"><a href="#"  aria-label="Next"><span aria-hidden="true">Next</span></a></li><li class="disabled"><a href="#" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+                    else
+                        pagination += '<li><a href="#" id="' + (parseInt(page) + 1) + '" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="' + response.numPage + '" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+
+                    $('.pagination').html(pagination); // We update the pagination DIV
+                    
+
+                }, // end of success
+
+                error: function () { }
+
+            });
+
+            return false;
+
+        });
+
+
+
+    </script>
+
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100997406); }catch(e){}</script>
+
+
+
