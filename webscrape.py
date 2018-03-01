@@ -11,16 +11,14 @@ def parsing_Site(url):
 	# browser.get(url)
 	# innerHTML = browser.execute_script("return document.body.innerHTML") #returns the inner HTML as a string
 
-	with open('output1.txt','wb') as myfile:
-		myfile.write(str(innerHTML))
-
+	# with open('output1.txt','wb') as myfile:
+	# 	myfile.write(str(innerHTML))
 
 	with open('innerHTML.txt', 'r') as myfile:
 	    data=myfile.read().replace('\n', '')
 	page_soup = soup(data, 'html.parser')
 
 	baahrakhari(page_soup)
-	print('Browser.get')
 
 def baahrakhari(page_soup):
 	site_section = page_soup.find(id="site-section")
@@ -72,13 +70,17 @@ def main():
 	# link_  = []
 	# imageLink_ = []
 	# description_ = []
+
+	#browser = buildDriver()
+	# browser = webdriver.Chrome()
+	# browser.implicitly_wait(10)
+
 	b_baseUrl = 'http://baahrakhari.com/'
 	b12_categories = ['special-news/1/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7','news-article/1/Politics','news-article/2/Economy','news-article/3/Sports','news-article/4/Interview','news-article/6/Thought','news-article/7/Country','news-article/8/12khari-samikchya','news-article/9/Literature','news-article/12/Blog','news-article/14/Editorial','news-article/15/Foreign']
 	b12_sites = [urls + b_baseUrl for urls in b12_categories]
 	parsing_Site(b12_sites)
-	#browser = buildDriver()
-	# browser = webdriver.Chrome()
-	# browser.implicitly_wait(10)
+
+	articleObjectTest()
 
 
 if __name__== "__main__":
