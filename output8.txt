@@ -1,0 +1,887 @@
+
+    <!--Header-->
+    <div class="container">
+    </div>
+
+<header id="site-header">
+
+    
+
+    <!--Header: Mid--->
+    <div class="header-mid">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="logo sm-center">
+                        <a href="http://baahrakhari.com/" title="">
+                            <img width="" height="" src="http://baahrakhari.com/assets/images/logo.png" alt="">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="nav-ticker-wrapper" class="affix-top">
+        <!--Site Navigation-->
+        <div class="site-navigation box-shadow-all-equal">
+            <div class="container">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand visible-sm visible-xs" href="http://baahrakhari.com/"><img src="http://baahrakhari.com/assets/images/logo.png" alt="12Khari"></a>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li><a href="http://baahrakhari.com/">गृहपृष्ठ <span class="sr-only">(current)</span></a></li>
+
+                                <li><a href="http://baahrakhari.com/special-news/1/विशेष">विशेष </a></li>
+
+                                <li><a href="http://baahrakhari.com/news-article/1/Politics">राजनीति</a></li><li><a href="http://baahrakhari.com/news-article/2/Economy">अर्थ व्यवसाय</a></li><li><a href="http://baahrakhari.com/news-article/3/Sports">खेल</a></li><li><a href="http://baahrakhari.com/news-article/4/Interview">अन्तर्वार्ता</a></li><li><a href="http://baahrakhari.com/news-article/6/Thought">विचार</a></li><li><a href="http://baahrakhari.com/news-article/7/Country">देश</a></li><li><a href="http://baahrakhari.com/news-article/8/12khari-samikchya">बाह्रखरी समीक्षा</a></li><li><a href="http://baahrakhari.com/news-article/9/Literature">साहित्य र कला</a></li><li><a href="http://baahrakhari.com/news-article/12/Blog">ब्लग</a></li><li><a href="http://baahrakhari.com/news-article/14/Editorial">सम्पादकीय</a></li><li><a href="http://baahrakhari.com/news-article/18/Foreign">विदेश</a></li>
+
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ग्यालरी<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="http://baahrakhari.com/photo-gallery/1/Cartoon">कार्टुन</a></li>            
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/photo-gallery/2/Photo">फोटो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/page-video">भीडियो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                       <!-- <li><a href="http://baahrakhari.com/">अडियो</a></li>
+                                        -->
+                                    </ul>
+                                </li>
+
+
+                            </ul>
+                            
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
+             </div>
+</header>
+    <!--Section-->
+    <section id="site-section">
+        <div class="container">
+            <div class="row margin-bottom ">
+                <div class="col-md-8">
+                    <article class="module bg-white">
+                        <header>
+                            <h2>साहित्य र कला</h2>
+                        </header>
+                        <section>
+                            <ul class="page-news-list"><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49602/2018-03-01" title="">राष्ट्रिय कलाश्री सम्मान प्रा डा त्रिपाठीलाई</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १७ बिहीबार  ०३:५६:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौँ । नेपाली कलासाहित्य डट कम प्रतिष्ठानले यस वर्षको राष्ट्रिय कलाश्री सम्मान प्रा डा वासुदेव त्रिपाठीलाई प्रदान गरेको छ ।&nbsp;
+
+नेपाली भाषा साहित्यको उन्नयनमा महत्वपूर्ण योगदान गरेबापत उनलाई सो सम्मान दिइएको हो ।&nbsp;
+
+यसैगरी प्रतिष्ठानले रु एक लाख राशिको ‘राष्ट्रिय कलाश्री पुरस्कार’ कथाकार...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49593/2018-02-28" title="">अल बिदा श्रीदेवी ! (फोटोफिचर)</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49593/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1963185422sridevi-4.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1963185422sridevi-4.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १६:४४:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । भारतकी बहुचर्चित अभिनेत्री श्रीदेवीको आज अन्तिम बिदाइ कार्यक्रम रहेको छ जसमा बलिउडका सम्पूर्ण कलाकारहरु उपस्थित भएका छन् ।&nbsp;
+
+उनको आकस्मिक मृत्युले सबै फ्यानहरुलाई चकित पारिदिएको थियो । दुवईमा मृत्यु भएपछि उनको शवलाई हिजो मात्र भारत ल्याइएको हो । आज उनको अन्त्येष्टिमा सम्वेदना प्रकट...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49570/2018-02-28" title="">पुरानो कथामा नयाँ रङ</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49570/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/71026305527625237_273220743212418_3449473898231533328_o.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/71026305527625237_273220743212418_3449473898231533328_o.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  <a href="http://baahrakhari.com/author-details/1/नरेश-फुयाँल">नरेश फुयाँल</a></li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ११:३३:००</li>
+                            </ul>
+                    </div>
+                    <p>नेपालमा बर्सेनि सयभन्दा धेरै चलचित्र प्रदर्शनमा आउन थालिसकेका छन् । तर, नाफाका दृष्टिले भने कमैमात्रै चलचित्र सफल हुने गरेका छन् । बक्स अफिस छैन । वितरक तथा निर्माताले भनेकै भरमा चलचित्रको व्यापारलाई पत्याउनुपर्ने हुन्छ । वितरकहरुले जस्तो दाबी गरे पनि औसत वार्षिक ५ प्रतिशतमात्रै चलचित्रले राम्रो...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49536/2018-02-27" title="">खगेन्द्र लामिछानेको चलचित्र ‘डमरुकाे &nbsp;डण्डीबियो’ वैशाख ११ गते रिलिज हुने</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49536/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1213511118damuru.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1213511118damuru.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १८:५८:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । खगेन्द्र लामिछाने स्टारर चलचित्र ‘डमरुकाे &nbsp;डण्डीबियो’ को रिलिज डेट लिएको छ । चलचित्र वैशाख ११ गते प्रदर्शन हुनेछ ।&nbsp;निर्माण पक्षले रिलिज डेटसहितको दुई नयाँ पोस्टर सार्वजनिक गरेको छ ।&nbsp;
+
+चलचित्रकाे&nbsp;पोस्टरमा खगेन्द्रलाई डण्डीबियो बोकिरहेको अवस्थामा प्रस्तुत गरिएको छ । नेपालमा लोप...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49531/2018-02-27" title="">एघार वर्षे गायक कसपालको गीत ‘छोरी अन्माउँदा...’ को भिडियो सार्वजनिक</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49531/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1899853721Capture.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1899853721Capture.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १८:३३:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । एघार वर्षे गायक अधिश्री कसपालको गीत ‘छोरी अन्माउँदा...’ को भिडियो सार्वजनिक भएको छ । सार्वजनिक भिडियोमा सरोज खनाल र वर्षा शिवाकोटीले फिचरिङ छन् ।&nbsp;
+
+घरकी एक्ली छोरी विवाहमा अन्माउँदा पितालाई पर्ने चोटलाई भिडियोमा प्रस्तुत गरिएको छ । गीतमा सुरेश अधिकारीको संगीत र सुभाषचन्द्र ढुंगेलको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49514/2018-02-27" title="">चलचित्र ‘मंगलम्’ टोली देश दौडाहामा</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49514/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1912099292mangalam@chitwan.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1912099292mangalam@chitwan.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १६:०४:००</li>
+                            </ul>
+                    </div>
+                    <p>चितवन । यतिबेला युट्युबमा ‘पर्ख पर्ख मायालु’ बोलको गीत सर्वाधिक रुचाइएको छ । सो गीत पछिल्लो समयकी चर्चित नायिका शिल्पा पोखरेलले निर्माण गरेको पहिलो चलचित्र ‘मंगलम्’को हो ।
+
+नेपाली चलचित्रले सोचेजस्तो व्यापार गर्न नसके पनि चलचित्र निर्माण गर्ने क्रम भने बढ्दै गएको छ । नायिका शिल्पाले निर्माण...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49480/2018-02-27" title="">गैडाकोटमा अन्तर्राष्ट्रिय लोक सांस्कृति मेला हुने &nbsp;</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49480/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1552702574Lok-Press-Meet.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1552702574Lok-Press-Meet.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  ०७:५४:००</li>
+                            </ul>
+                    </div>
+                    <p>गैडाकोट । “धेरै हेरीयो राष्ट्रिय मेला, यसपाली हेरौं अन्तर्राष्ट्रिय मेला” भन्ने मुल नाराका साथ नवलपरासीको गैंडाकोटमा पहिलो पटक अन्तर्राष्ट्रिय लोक सांस्कृति मेला २०७४ हुन लागेको छ ।&nbsp;
+
+सांस्कृतिक विविधताको आदान प्रदान र प्रचार प्रसारले नेपालको पर्यटनको विकासमा महत्वपूर्ण योगदान पू¥याउने...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49467/2018-02-26" title="">‘ब्लाइन्ड रक्स’ वेनिसाका लागि चुनौती र अवसर दुबै</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49467/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/160929625दिषलय.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/160929625दिषलय.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १९:२५:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । नायिका वेनिशा हमालले ‘ब्लाइन्ड रक्स’ आफ्नो लागि चुनौती र अवसर दुबै भएको बताएकी छन् । दृष्टिविहीन श्रृष्टि केसीको जीवन संघर्षमा आधारित रहेर बनेको चलचित्र ‘ब्लाइन्ड रक्स’ मा हमालले श्रृष्टिको भूमिका निर्वाह गरेकी छिन् ।&nbsp;
+
+“श्रृष्टिको जीवन संघर्ष मैले उहाँ जस्तै बनेर उतार्नु थियो...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49465/2018-02-26" title="">गायिका यशोधा खालिङ राईको चौरी बजारमा&nbsp;</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49465/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1543909830music-video--CHAURI-Yashodha-Khaling-Rai--ARTISTNEPAL-(3).jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1543909830music-video--CHAURI-Yashodha-Khaling-Rai--ARTISTNEPAL-(3).jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १९:०२:००</li>
+                            </ul>
+                    </div>
+                    <p>&nbsp;काठमाडौं । गायिका यशोधा खालिङ राईको ‘चौरी...’ बोलको गीतको म्युजिक भिडियो सार्वजनिक भएको छ ।&nbsp;
+
+सञ्जय बरालको शब्दमा हरी लम्सालको संगीतमा तयार भएको गीतमा गायिका यसोधा, सुकराम, अस्मिता र कुसुम गोलेको अभिनय रहेको छ ।&nbsp;
+
+सुकराम गोले कै कोरियोग्राफी तथा निर्देशनमा तयार भएको भिडियोमा प्रेमाहाङ राईले...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49463/2018-02-26" title="">चलचित्र ‘जय शम्भु’ निर्माणको घोषणा</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49463/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/290303461IMG_0635.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/290303461IMG_0635.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १८:५५:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । चलचित्र जय शम्भुको घोषणा गरिएको छ । राजधानीमा एक कार्यक्रमको आयोजना गर्दै चलचित्र निर्माण टिमले निर्माणको घोषणा गरेको हो ।
+
+चलचित्रमा प्रशान्त ताम्राकार, अनुुप विक्रम शाही र वर्षा शिवाकोटीको मूख्य भूमिका रहने छ । दिनेश शाही, अरविन्द्र शाक्य, चक्र पाख्रिन, राजकुमार नगरकोटी लगायतको लगानी...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49451/2018-02-26" title="">‘स्वयं खुदा जान्दैनथे’</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49451/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/289108641ARyfkYVN.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/289108641ARyfkYVN.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १८:०१:००</li>
+                            </ul>
+                    </div>
+                    <p>&nbsp; &nbsp;–प्रतिभा गौतम
+
+
+अलि परको लाल सागर
+एक्कासी,
+आफ्नै बस्तीमा पसेर&nbsp;
+घरको छानो छानोसम्म उछालिँदै&nbsp;
+यसरी पनि बग्ला, कुनै दिन
+कहिल्यै सोचेकै थिएन।
+
+आफ्नै आँखादेखी झरेको मृत सागर&nbsp;
+अँजुलीमा समेटेर,
+आँखा चिम्लिँदै घुट्क्याउनु पर्ला, कुनै बखत
+अहँ, यस्तो पनि&nbsp;
+कहिल्यै लागेकै थिएन !
+
+लहरै,&nbsp;
+क्षतविक्षत...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49450/2018-02-26" title="">बलिउड अभिनेत्री श्रीदेवीको ‘डुबेर’ मृत्यु !</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49450/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/257975540devi-.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/257975540devi-.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १७:५७:००</li>
+                            </ul>
+                    </div>
+                    <p>बीबीसी । बलिउड अभिनेत्री श्रीदेवीको मृत्युका बारेमा नयाँ दाबी सार्वजनिक भएको छ । संयुक्त अरब इमिरेट्सको स्वास्थ्य मन्त्रालयले जारी गरेको मृत्यु प्रमाण पत्रमा उनको मृत्युको ‘डुबेर’ भनिएको छ ।
+
+यसअघि कार्डिएक अरेस्टका कारण अभिनेत्री श्रीदेवीको मृत्यु भएको बताइएको थियो । चर्चित अभिनेत्री...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49416/2018-02-26" title="">३ करोड जनसंख्या ५ करोड भ्युज !</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49416/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/951385043Capture.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/951385043Capture.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १०:०३:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । नेपाली कथानक चलचित्र ‘२ रुपैयाँ’ को गीत ‘कुटुमा कुटुमा...’ ५ करोडपटक हेरिएको छ । हाइलाइट्न नेपालको युट्युब च्यानलबाट अपलोड गरिएको गीत ५ करोड पटक सर्च भएको हो ।&nbsp;
+
+सन् २०१७ मे २८ तारिकमा अपलोड गरिएको गीतको भ्युज २००१८ फेब्रुअरी २६ मा ५ करोड पुगेको हो । राजनराज शिवाकोटीको शब्द तथा संगीत...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49342/2018-02-25" title="">बलिउड चर्चित अभिनेत्री श्रीदेवीको निधन&nbsp;</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49342/2018-02-25" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/2128811986sreedevi.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/2128811986sreedevi.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १३ आइतबार  ०९:१९:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । बलिउड अभिनेत्री श्रीदेवीको निधन भएको छ । आफ्नो भतिजको विवाहमा सहभागी हुन दुबई पुगेकी श्रीदेवीको हृदयघातका कारण निधन भएको बीबीसीले जनाएको छ ।
+
+५४ वर्षको उमेरमा श्रीदेवीको &nbsp;निधन भएको हो । उनको जन्म १३ अगष्ट १९६३ मा भएको थियो । उनले पहिलोपटक कन्धन करुणईमा अभिनय गरेकी थिइन् । उनको हृदयघातका...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49315/2018-02-24" title="">‘इन्टु मिन्टु लन्डन’को गीत सार्वजनिक</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49315/2018-02-24" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1524637515Capture.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1524637515Capture.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १२ शनिबार  १२:५३:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । चलचित्र ‘इन्टु मिन्टु लन्डन’को गीत सार्वजनिक भएको छ । गायक स्वप्न सुमनको शब्द, संगीत र स्वरमा रहेको ‘थाहै भएन..’ बोलको गीत सार्वजनिक गरिएको हो ।
+
+लिरिलिकल अडियोमा चलचित्रका मुख्य कलाकार साम्राज्ञी राज्यलक्ष्मी शाह र धिरज मगरका रोमान्टिक तस्बिरहरू प्ले गरिएको छ ।&nbsp;
+
+‘इन्टु मिन्टु...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49313/2018-02-24" title="">‘जिउँदो आकाश’ दोस्रोपटक मञ्चन</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49313/2018-02-24" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/196072351Transgender-1.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/196072351Transgender-1.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १२ शनिबार  १२:१८:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । नाटक ‘जिउँदो आकाश’ दोस्रोपटक मञ्चन सुरु भएको छ । सर्वनाम थिएटरमा फागुन ११ गतेदेखि ‘जिउँदो आकाश’ को दोस्रोपटक मञ्चन सुरु भएको हो ।&nbsp;
+
+यसअघि नाटक ‘जिउँदो आकाश’ यही वर्षको साउनमा सर्वनाम थिएटरमा यो नाटक मञ्चन भएको थियो । नाटक १९ गतेसम्म प्रदर्शन हुनेछ । डाँफे थिएटरको पहिलो प्रस्तुति...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49310/2018-02-24" title="">मदनकृष्ण श्रेष्ठको गुनासोः म गीतमा देखिन पाइनँ</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49310/2018-02-24" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1571624673madan.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1571624673madan.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १२ शनिबार  १२:०२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । चलचित्र ‘शत्रु गते’ मा समावेश गीत ‘रुपै मोहनी’ ले युट्युब च्यनलमा एक करोड भ्युज पाएको छ ।&nbsp;गत डिसेम्बर २९ मा युट्युबमा अपलोड गरिएको गीतलाई फेब्रुअरी २२ सम्ममा एक करोड भन्दा बढी पटक दर्शकले हेरेका छन् ।&nbsp;
+
+उक्तगीतमा चलचित्रका अधिकांश कलाकार फिचरिङ भए पनि आफू भने देखिन नपाएको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49308/2018-02-24" title="">सक्थें भने मान्छेका मन सफा गर्थें</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49308/2018-02-24" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/130768029deepika.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/130768029deepika.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १२ शनिबार  ११:२७:००</li>
+                            </ul>
+                    </div>
+                    <p>– दीपिका पादुकोण
+
+
+धेरै विवादपछि प्रदर्शनमा आएको सञ्जय लीला भन्साली निर्देशित ‘पद्मावत’ फिल्म नेपालको ‘क्यूएफएक्स’मा आजसम्म चलिरहेको छ । नेपालमात्रै होइन, संसारभर यसले प्रशंसा पायो । यसबाट ‘पद्मावत’ टिम निकै खुशी भयो । अझ त्योभन्दा खुशी भइन्, मुख्य नायिका दीपिका पादुकोण । यो फिल्ममा...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49307/2018-02-24" title="">प्रशान्तको ‘फूलबारी’ सार्वजनिक</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १२ शनिबार  ११:२६:००</li>
+                            </ul>
+                    </div>
+                    <p>नुवाकोट । विदुर नगरपालिका–१२ का सुविन रिमाल ‘प्रशान्त’द्वारा लिखित ‘फूलबारी’ कविता संग्रहको लोकार्पण गरिएको छ ।&nbsp;
+
+बाह्रवर्षीय प्रशान्तले अध्ययन गर्दै आएको शहीद जगत्प्रकाशजंग शाह संस्कृत मावि देवीघाटमा आयोजित कार्यक्रममा कवितासंग्रहको लोकार्पण गर्दै साहित्यकार शम्भुप्रसाद शर्माले...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49302/2018-02-24" title="">सास हावामा विलीन हुनुअघि</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49302/2018-02-24" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1187862513Capture.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1187862513Capture.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १२ शनिबार  १०:१८:००</li>
+                            </ul>
+                    </div>
+                    <p>- तुलसीप्रसाद दाहाल
+
+
+जब मेरो सास हावामा विलीन हुनेछ
+
+र, यो तातो शरीर
+
+चिसो भएर भुइँमा लमतन्न ढल्नेछ
+
+म कल्पिन्छु
+
+तिमी मेरो चिसिएको शरीरलाई अँगालो मारेर 
+
+बलिन्द्र आँशु धारा झार्दै भुइँमा मुट्ठी बजार्नेछौ 
+
+र, गुनासो गर्नेछौ त्यो अदृश्य भगवानसँग
+
+र, भन्नेछौ-
+
+हे भगवान् ! 
+
+मेरो आयु तिमीले उसलाई किन...</p>
+            </li></ul>
+                        </section>
+                    </article>
+                    <article class="padding box-shadow bg-white margin-top module-pagination
+">
+                        <section>
+                            <nav>
+                                <ul class="pagination"><li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li><li class="active"><a href="#" id="1">1</a></li><li><a href="#" id="2">2</a></li><li><a href="#" id="3">3</a></li><li><a href="#" id="4">4</a></li><li><a href="#" id="2" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="190" aria-label="Last"><span aria-hidden="true">Last</span></a></li></ul>
+                            </nav>
+                        </section>
+                    </article>
+                </div>
+                <div class="col-md-4">
+
+    <div class="margin-bottom text-center margin-top">
+                            <a href="https://www.facebook.com/CGMotocorp/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/803832560celerio_275x220px-72px_BHARKHARI_COM.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://www.ncell.axiata.com/4G/About-4G" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/80748509270x180PXL-4G21CL_NcellAx.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.cerealestate.com.np/pages/Project_Details/?id=20" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/2099779500CE-Landing-Page.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://wwww.civilbank.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1278019402Civil-Bank-New.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.nepatop.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1157847850275-x-220.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://nepallife.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/988081201NepalLife-Smart-275pxX220px-Barkhari.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://goo.gl/ZZ3UY4" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1963259576joktantra-for-baarhakhari-final-(1).gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://broadlink.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1874835243gif.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://v2sr8.app.goo.gl/Q8OH" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/94722663received_1751936781505314.gif" class="">
+                            </a>
+                        </div>
+    <article class="module bg-white ">
+        <header>
+            <h2>धेरै पढिएको</h2>
+            <a href="http://baahrakhari.com/popular-news/1/लोकप्रिय" title="">थप <i class="fa fa-ellipsis-v"></i></a>
+        </header>
+        <section>
+            <ul class="title-list">										
+                <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49586/2018-02-28" title="">                                        
+                       ‘विप्लव’को घरमा पक्राउ पुर्जी टाँसियो
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49423/2018-02-26" title="">                                        
+                       यस्तो छ विश्वकप छनोट क्रिकेटको ट्रफी, भोलि यूएईसँग अभ्यास खेल खेल्दै नेपाल
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49494/2018-02-27" title="">                                        
+                       रेलबिनाको रेल विभाग, पुरानो लैजान भारतको प्रस्ताव
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49357/2018-02-25" title="">                                        
+                       नेपाली फुटबलमा म्याच फिक्सिङ चलिरहेकै छ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49419/2018-02-26" title="">                                        
+                       सेयर मार्केट भवनमा आगलागी, ४ दमकल परिचालन
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49246/2018-02-23" title="">                                        
+                       तेस्रो बर्खामा पनि पुनर्निर्माण अधुरै, दाताका सर्तैसर्त
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49324/2018-02-24" title="">                                        
+                       शेयर बजारः एक अर्ब ७० करोडको कारोबार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49452/2018-02-26" title="">                                        
+                       सांसद नै नरहेका व्यक्ति अर्थमन्त्री बनाएको भन्दै तरुण दलको आपत्ति&nbsp;
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49369/2018-02-25" title="">                                        
+                       ‘अर्बौंको सम्पत्ति तीन करोड नेपालीलाई’
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49544/2018-02-27" title="">                                        
+                       श्रीदेवीको निधनबारे विवाद, हत्या भएको आशंका
+                        </a></h3>
+                </li>            </ul>
+        </section>
+    </article>
+
+    <div class="clearfix"></div>
+
+
+    <div class="tabbing margin-top">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#tab-2-1" aria-controls="tab-2-1" role="tab" data-toggle="tab"> भर्खरै </a></li>          
+
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="tab-2-1">
+                <ul class="title-list">
+                    <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49633/2018-03-01" title="">                                        
+                       वीरगञ्जमा प्रहरी कार्यालयकै अगाडी धागो व्यापारीमाथि गोली प्रहार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49632/2018-03-01" title="">                                        
+                       सरकार-फोरम वार्ता बालुवाटारमा जारी, संविधान संशोधनमा सहमति जुटाउने प्रयास
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49631/2018-03-01" title="">                                        
+                       राजधानीमा होलीमा कडाइ, दिउँसै ‘मापसे’ चेकिङ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49630/2018-03-01" title="">                                        
+                       होली पर्वले सद्भाव बढाउन महत्वपूर्ण भूमिका निर्वाह गर्छ : प्रधानमन्त्री ओली
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49629/2018-03-01" title="">                                        
+                       मर्यादितरुपमा होली मनाउन चार धर्मगुरुको अपिल
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49627/2018-03-01" title="">                                        
+                       कोइराला निवासबाट देउवाको हुँकार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49626/2018-03-01" title="">                                        
+                       वाम गठबन्धन र फोरमको संयुक्त बैठक बस्दै
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49625/2018-03-01" title="">                                        
+                       गोली प्रहारबाट एक युवक गम्भीर घाइते
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49624/2018-03-01" title="">                                        
+                       टोटनह्याम एफए कपको क्वाटरफाइनलमा
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49623/2018-03-01" title="">                                        
+                       पीएसजी फ्रेन्स कप फुटबलको सेमिफाइनलमा
+                        </a></h3>
+                </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>            </div>
+        </div>
+    </section>
+
+    <!--Footer-->
+    
+<footer id="site-footer">
+    
+    <div class="footer-top box-shadow padding">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-md-3">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रधान सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>प्रतीक प्रधान</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                    <article class="fbox">
+                        <header>
+                            <h3>कार्यकारी सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>गोविन्द अधिकारी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>राजेश केसी</li>
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>समाचार सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+
+                                <li>बलराम पाण्डे </li>   
+                            </ul>
+                        </section>
+                    </article>
+
+                <article class="fbox">
+                        <header>
+                            <h3>कला-साहित्य सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लेनिन बन्जाडे</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-4">
+                    <article class="fbox">
+                        <header>
+                            <h3>संवाददाता</h3>
+                        </header>
+                        <section>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul>
+
+                                        <li>सन्तोष रिमाल (अमेरिका)</li>
+                                        <li>अक्षर काका </li>
+                                        <li>नरेश फुयाँल </li>
+                                        <li>केशव सावद </li>
+                                        <li>निशान राई</li>
+                                        <li>सुरञ्जन घिमिरे </li>
+                                        <li>विजेता चौधरी</li>
+
+                                        
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>शिवनारायण गिरी</li>
+                                        <li>सरोज तामाङ</li>
+                                        <li>विष्णु बश्याल </li>
+                                        <li>ममता घिमिरे </li>
+                                        <li>रुमु न्यौपाने </li>
+                                        <li>सञ्जिता खनाल </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>मल्टिमिडिया </h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सरिता खड्का </li>
+                                <li>सौरभ रानाभाट </li>
+                                <li>विजेन्द्र गिरी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>व्यवस्थापन</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सूर्य घिमिरे (उप–महाप्रवन्धक)</li>
+                                <li>तीर्थबहादुर थापा (अर्थ\प्रशासन)</li>
+                                <li>तुला चौधरी (लेखा)</li>
+                            </ul>
+                        </section>
+                    </article>
+                    <article class="fbox">
+                        <header>
+                            <h3>बिजनेस डेभलपमेन्ट</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li> जीवन तिम्सिना    </li>
+                                <li> चारु श्रेष्ठ </li>
+                                <li> शर्मिष्ठा पण्डित अमानी     </li>
+                            </ul>
+                        </section>
+                    </article> 
+                    <article class="fbox">
+                        <header>
+                            <h3>सहयोगी</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लक्ष्मण चाैधरी / लक्ष्मी भुजेल</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+               
+
+
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध  निर्देशक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>ज्ञानेश्वर अाचार्य</li>
+                            </ul>
+                        </section>
+                    </article>
+
+
+
+                </div>
+
+
+
+                <div class="col-md-offset-10 col-md-2">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <p>
+                        © २०१६ - २०१७ बाह्रखरीद्वारा प्रकाशित/सर्वाधिकार सुरक्षित
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <p class="pb en">
+                        Powered By: <a href="http://itechnepal.com" title="" target="_blank">i-Tech Nepal</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<div class="to-top">
+    <a href="#top">
+        <i class="fa fa-arrow-circle-o-up"></i>
+    </a>
+</div>
+
+<!--<div class="fb-msg-fixed visible-xs visible-sm">
+    <div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function () {
+            FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
+        };
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = '//connect.facebook.net/en_US/sdk.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+</div>-->
+<div class="fb-msg-fixed visible-xs visible-sm">
+                    <!--<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>-->
+</div>
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.webticker.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/owl.carousel.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.lazyload.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/custom.js?ver=1.0.1"></script>
+
+<script>
+    var sheight = $(".small-ad>a>img").height();
+    var lheight = $(".big-ad>a>img").height();
+
+    $(document).ready(function () {
+
+        $(".small-ad").css("top", lheight + 'px');
+        $("#large-ad").css("height", lheight);
+        $("#btn-collapse").click(function () {
+            ad_collapse();
+        });
+        $("#btn-expand").click(function () {
+            ad_expand();
+        });
+        setTimeout(ad_collapse, 4000);
+    });
+
+    function ad_collapse() {
+        $("#large-ad").css("height", sheight);
+        $(".small-ad").css("top", -lheight + 'px');
+    }
+
+    function ad_expand() {
+        $("#large-ad").css("height", lheight);
+        $(".small-ad").css("top", "0px");
+    }
+</script>
+
+  
+    
+
+    <script>
+        $('document').ready(function () {
+            $(".pagination a").trigger('click'); // When page is loaded we trigger a click
+        });
+
+        $('.pagination').on('click', 'a', function (e) {
+            var type = '9';
+            var page = this.id;
+            var perPage = '20';
+            var pagination = '';
+            var data = {'perPage': perPage, 'page': page, 'cat': type};
+            $.ajax({
+                url: 'http://baahrakhari.com/ajax/pagination.php',
+                type: 'POST',
+                data: data,
+                dataType: 'json',
+                success: function (response) {
+                    $('.page-news-list').html(response.newsList);
+                    $('html, body').animate({ scrollTop: 0 } , "slow");
+                    if (page == 1)
+                        pagination += '<li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+                    else
+                        pagination += '<li class=""><a href="#" id="1" aria-label="First"><span aria-hidden="true">First</span></a></li><li class=""><a href="#" id="' + (page - 1) + '" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+
+                    for (var i = parseInt(page) - 3; i <= parseInt(page) + 3; i++) {
+                        //	alert(i);
+                        if (i >= 1 && i <= response.numPage) {
+
+                            if (i == page)
+                                pagination += '<li class="active"><a href="#" id="' + i + '">' + i + '</a></li>';
+                            else
+                                pagination += '<li><a href="#" id="' + i + '">' + i + '</a></li>';
+
+                        } //end of if		  	
+                    } // end for loop
+
+                    if (page == response.numPage)
+                        pagination += '<li class="disabled"><a href="#"  aria-label="Next"><span aria-hidden="true">Next</span></a></li><li class="disabled"><a href="#" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+                    else
+                        pagination += '<li><a href="#" id="' + (parseInt(page) + 1) + '" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="' + response.numPage + '" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+
+                    $('.pagination').html(pagination); // We update the pagination DIV
+                    
+
+                }, // end of success
+
+                error: function () { }
+
+            });
+
+            return false;
+
+        });
+
+
+
+    </script>
+
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100997406); }catch(e){}</script>
+
+

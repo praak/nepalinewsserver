@@ -1,0 +1,844 @@
+
+    <!--Header-->
+    <div class="container">
+    </div>
+
+<header id="site-header">
+
+    
+
+    <!--Header: Mid--->
+    <div class="header-mid">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="logo sm-center">
+                        <a href="http://baahrakhari.com/" title="">
+                            <img width="" height="" src="http://baahrakhari.com/assets/images/logo.png" alt="">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="nav-ticker-wrapper" class="affix-top">
+        <!--Site Navigation-->
+        <div class="site-navigation box-shadow-all-equal">
+            <div class="container">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand visible-sm visible-xs" href="http://baahrakhari.com/"><img src="http://baahrakhari.com/assets/images/logo.png" alt="12Khari"></a>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li><a href="http://baahrakhari.com/">गृहपृष्ठ <span class="sr-only">(current)</span></a></li>
+
+                                <li><a href="http://baahrakhari.com/special-news/1/विशेष">विशेष </a></li>
+
+                                <li><a href="http://baahrakhari.com/news-article/1/Politics">राजनीति</a></li><li><a href="http://baahrakhari.com/news-article/2/Economy">अर्थ व्यवसाय</a></li><li><a href="http://baahrakhari.com/news-article/3/Sports">खेल</a></li><li><a href="http://baahrakhari.com/news-article/4/Interview">अन्तर्वार्ता</a></li><li><a href="http://baahrakhari.com/news-article/6/Thought">विचार</a></li><li><a href="http://baahrakhari.com/news-article/7/Country">देश</a></li><li><a href="http://baahrakhari.com/news-article/8/12khari-samikchya">बाह्रखरी समीक्षा</a></li><li><a href="http://baahrakhari.com/news-article/9/Literature">साहित्य र कला</a></li><li><a href="http://baahrakhari.com/news-article/12/Blog">ब्लग</a></li><li><a href="http://baahrakhari.com/news-article/14/Editorial">सम्पादकीय</a></li><li><a href="http://baahrakhari.com/news-article/18/Foreign">विदेश</a></li>
+
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ग्यालरी<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="http://baahrakhari.com/photo-gallery/1/Cartoon">कार्टुन</a></li>            
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/photo-gallery/2/Photo">फोटो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/page-video">भीडियो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                       <!-- <li><a href="http://baahrakhari.com/">अडियो</a></li>
+                                        -->
+                                    </ul>
+                                </li>
+
+
+                            </ul>
+                            
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
+             </div>
+</header>
+    <!--Section-->
+    <section id="site-section">
+        <div class="container">
+            <div class="row margin-bottom ">
+                <div class="col-md-8">
+                    <article class="module bg-white">
+                        <header>
+                            <h2>अर्थ व्यवसाय</h2>
+                        </header>
+                        <section>
+                            <ul class="page-news-list"><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49599/2018-02-28" title="">गुनासो प्रमाणीकरणका लागि स्थानीय तहमा पठाउने प्राधिकरणको तयारी&nbsp;</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49599/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1083059978Kendriya-Gunaso-samiti-meeting,-2074-11-16.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1083059978Kendriya-Gunaso-samiti-meeting,-2074-11-16.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १८:३७:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । राष्ट्रिय पुनर्निर्माण प्राधिकरणले छुट तथा पुनः जाँच सर्वेक्षणबाट प्राप्त १ लाखभन्दा बढी गुनासोलाई यही फागुन मसान्तभित्र अन्तिम प्रमाणीकरणका लागि स्थानीय तहमा पठाउने तयारी गरेको छ । &nbsp;
+
+प्राधिकरणका कार्यकारी समिति सदस्य डा.हरिराम पराजुलीको संयोजकत्वमा बुधवार बसेको केन्द्रीय गुनासो...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49598/2018-02-28" title="">‘तरलताको समस्याले सिंहदरबारमा पनि छाडेन’</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49598/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1944627772arthamnatri.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1944627772arthamnatri.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १८:३२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । अर्थमन्त्री डा. युवराज खतिवडाले लगानीयोग्य पुँजी अभावका बारे आफू पूर्णरुपमा जानकार रहेको बताएका छन् । नेपाल उद्योग वाणिज्य महासंघका पदाधिकारीसँग बुधबार भएको भेटमा अर्थमन्त्री डा. खतिवडाले आफूले तरलताको विषयमा केन्द्रीय बैंकसँग छलफल गरेर समाधानको बाटो खोज्ने &nbsp;बताए ।&nbsp;
+
+उनले लगानी...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49591/2018-02-28" title="">लगातार तेस्रो दिन आधा अर्बको कारोबार, परिसूचक बियरिस ट्रेन्डमा</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १६:५५:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । अघिल्लो दिन कारात्मक देखिएको नेप्से परिसूचक बुधबार (आज) करिब १९ अंकले घटेको छ । देशले नयाँ अर्थमन्त्री पाएको भोलिपल्ट बजारले स्वागत गरेपनि त्यो २४ घण्टा पनि टिक्न सकेन ।
+
+बुधबार कारोबार सुरु भएको एक घण्टा स्थिर देखिएका सेयर बजार त्यपछि भने ओरालो लाग्यो । कारोबार अवधिको अन्त्यमा केही अंकको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49592/2018-02-28" title="">लगातार तेस्रो दिन आधा अर्बको कारोबार, परिसूचक बियरिस ट्रेन्डमा</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १६:५५:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । अघिल्लो दिन कारात्मक देखिएको नेप्से परिसूचक बुधबार (आज) करिब १९ अंकले घटेको छ । देशले नयाँ अर्थमन्त्री पाएको भोलिपल्ट बजारले स्वागत गरेपनि त्यो २४ घण्टा पनि टिक्न सकेन ।
+
+बुधबार कारोबार सुरु भएको एक घण्टा स्थिर देखिएका सेयर बजार त्यपछि भने ओरालो लाग्यो । कारोबार अवधिको अन्त्यमा केही अंकको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49564/2018-02-28" title="">वैदेशिक रोजगारीमा जाने नेपाली घटे, गतवर्षभन्दा १५ हजार कम</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49564/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/132256385bimansthal-(3).jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/132256385bimansthal-(3).jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०८:२९:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । चालु आर्थिक वर्षको पहिलो ७ महिनामा गतवर्षको तुलनामा १५ हजारभन्दा कम कामदार रोजगारीका लागि विदेश गएका छन् ।
+
+वैदेशिक रोजगार विभागले सार्वजनिक गरेको चालु आवको पहिलो सात महिनाको विवरणअनुसार यसअवधिमा संस्थागत र व्यक्तिगत दुवैतर्फ वैदेशिक रोजगारीमा जानेको संख्यामा गिरावट आएको हो...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49543/2018-02-28" title="">बैंकका तीन शाखा विस्तार</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०२:१५:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौँ । नेपाल इन्भेष्टमेन्ट बैंकले एकै दिन तीनवटा शाखा विस्तार गरेको छ ।&nbsp;
+
+पर्वतको जलजला गाउँपालिका, बैतडीको सुर्नया गाउँपालिकास्थित सतबाज र भोजपुरको पौदुम्मा गाउँपालिकास्थित तिवारी भन्ज्याङमा शाखा विस्तार गरिएको बैंकले जनाएको छ । यीसँगै अब बैंकको शाखा संख्या ६६ वटा पुगेको छ ।&nbsp;
+
+ग्रामीण...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49539/2018-02-27" title="">कतार एयरवेजद्वारा क्यानवेरा अष्ट्रेलिया उडान घोषणा</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49539/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/764305776Qatar-Air.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/764305776Qatar-Air.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १९:०९:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । कतार एयरवेजले अष्ट्रेलियाको क्यानबेरामा आफ्नो फ्लाइटको सुरुवात घोषणा गरेको छ ।&nbsp; पत्रकार सम्मेलनमा अष्ट्रेलियन राजदुत पिटर ग्रिमी बड, कतारका राजदुत यूसुफ मोहम्मद अल–हायल र कन्ट्रि म्यानेजर जयप्रकाश नैयरको उपस्थिति थियो ।
+
+पत्रकार सम्मेलनमा कन्ट्रि म्यानेजर जयप्रकाश नैयरले...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49537/2018-02-27" title="">सिटिजन्स बैंकको ६८ औं शाखा सिमलचौरमा&nbsp;</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49537/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1706590336CB_logo.png" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1706590336CB_logo.png" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १९:०२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । सिटिजन्स बैंक इन्टरनेसनल लिमिटेडले आफ्नो ६८ औं शाखा कास्कीको सिमलचौरमा &nbsp;संचालनमा ल्याएको छ । फागुन १४ गते यस बैंकका सहायक प्रमुख कार्यकारी अधिकृत बोधराज देवकोटाले पूजा पाठ गरी बैंकिङ्ग कारोवारको सुरुवात गरेका हुन् ।
+
+उक्त समारोहमा जिल्लाका उच्चपदस्थ सरकारी कर्मचारी, उद्योगी, व्यापारी...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49515/2018-02-27" title="">२९ हजार मेगावाट क्षमताका आयोजना निर्माणका चरणमा</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49515/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/455434124download.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/455434124download.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १६:१०:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । मुलुकको कूल जलविद्युत् क्षमतामध्ये २८ हजार ८२३ मेगावाट क्षमताका विभिन्न आयोजना निर्माणका चरणमा रहेका छन् ।&nbsp;
+
+जल तथा ऊर्जा आयोगले पछिल्लो पटक सार्वजनिक गरेको तथ्यांकमा नेपालको जलविद्युत्को क्षमता ८२ हजार ८०० मेगावाट रहेको प्रारम्भिक प्रतिवेदन सार्वजनिक गरेको छ । कूल क्षमताको ४०...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49511/2018-02-27" title="">नयाँ अर्थमन्त्रीलाई नेप्सेको स्वागत, बजार ६ अंकले बढ्यो</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १५:५७:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । मंगलबार (आज) सेयर बजार परिसूचक (नेप्से) करिब ६ अंकले बढेको छ । कारोबार सुरु भएदेखि लगानीकर्ता अस्थिर बनेको देखिँदा बजारमा सुधार देखिएको हो । आज १३९८.९५ अंकबाट सुरु भएको बजार ५.८६ अंकले बढेर १३६४.८१ अंकमा पुगेको छ । ‘क’ वगको कारोबार मापन गर्ने सेन्सिटिभ इन्डेक्स १.५१ अंकले बढेर २ सय ८९ दशमलव १६...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49495/2018-02-27" title="">बजार खुल्नेबित्तिकै नेप्सेमा उतारचढाव</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १२:३८:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । देशले नयाँ अर्थमन्त्री पाएको भोलिपल्टै सेयर बजार अस्थिर देखिएको छ । सोमबार बजार खुलेको सुरुवाती घण्टामै बजारमा उतारचढाव देखिएको हो । बजार खुलेका डेढ घण्टा बित्दा परिसूचक डेढ अंकले बढेको छ भने २४ करोड रुपैयाँभन्दा बढीको कारोबार भइसकेको छ । यस अवधिमा १ सय १० भन्दा बढी कम्पनीको ५ लाखको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49494/2018-02-27" title="">रेलबिनाको रेल विभाग, पुरानो लैजान भारतको प्रस्ताव</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49494/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1702250031rail-department-(1).jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1702250031rail-department-(1).jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  <a href="http://baahrakhari.com/author-details/1/नरेश-फुयाँल">नरेश फुयाँल</a></li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  १२:०३:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । नेपालमा रेलमार्गको विकास तथा विस्तार गर्दै जाने उद्देश्यले रेल विभागको स्थापना भएको आधा दशक भएपनि अपेक्षित काम भने हुन सकेको छैन । २०६८ असारमा रेल विभागको स्थापना भए पनि अहिलेसम्म रेलमार्ग निर्माण सम्पन्न भएर रेल गुड्न थालेको छैन ।&nbsp;
+
+रेल विभागसँग एउटा पनि रेल छैन । रेलमार्ग निर्माण...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49492/2018-02-27" title="">माथिल्लो भोटेकोशी आयोजनाको पुनःनिर्माण शुरु</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  ११:१२:००</li>
+                            </ul>
+                    </div>
+                    <p>चौतारा, रासस । २०७२ सालको भूकम्प र २०७३ सालको बाढीले तहसनहस भई विगत तीन वर्षदेखि बन्द रहेको ४५ मेगावाटको माथिल्लो भोटेकोशी जलविद्युत् आयोजनाको पुनःनिर्माण कार्य सकिन अझै दुई वर्ष पर्खन पर्ने भएको छ ।&nbsp;
+
+सिन्धुपाल्चोकको भोटेकोशी गाउँपालिकामा निजी क्षेत्रबाट सञ्चालित सो आयोजनाबाट पाँच वर्षसम्म...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49491/2018-02-27" title="">रेनो क्विड परेड सम्पन्न</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49491/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/847830148Mnemonic.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/847830148Mnemonic.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  ११:०६:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । रेनोको लागि नेपालको आधिकारीक वितरक एड्भान्स अटोमोवाइल प्रालिले आफ्ना क्विडका ग्राहकहरुलाई ‘परेड’ मार्फत सानदार सवारीको अनुभब प्रदान गराएको छ । यो साहशिक परेड गराउनुको मुख्य उद्देश्य रेनो क्विड कारका मालिक तथा ग्राहकहरुलाई एकै ठाउँमा भेला गराई साहसिक सवारी संचालनको आनन्द प्रदान...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49475/2018-02-27" title="">कतार एयरवेजले सबै क्लासका यात्रुलाई विशेष छुट प्रदान गर्ने</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49475/2018-02-27" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/48816694820070806_qatar-airways.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/48816694820070806_qatar-airways.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १५ मंगलबार  ०६:१५:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । कतार एयरवेजले अहिले रोचक यात्राको अनुभव लिन आफूले चाहेको गन्तव्य भ्रमण गर्नमा विशेष शुल्क छुट प्रदान गर्ने जानकारी दिएको छ । विश्वका विभिन्न आकर्षक स्थानहरु घुम्न ग्राहकहरुलाई यात्रा शुल्कमा छुट दिने तयारी गरिरहेको कतार एयरवेजले यो नयाँ अफरबारे सूचना दिइरहेको बताइएको छ ।&nbsp;
+
+विश्वकै...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49471/2018-02-26" title="">स्टाइल र कम्फोर्टका लागि यामाहा स्कुटर, एसकुटर अभियान शुरु</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49471/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1297457300Yamaha-scooters.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1297457300Yamaha-scooters.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  २१:३२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । यामाहाले सोमबारबाट ‘एसकुटर’ नामको अभियान सुरु गरेको छ । मानिसहरुको दैनिकी सहज बनाउन स्कुटरले निर्वाह गरेको भूमिकालाई कदर गरेर एमएडब्लुले यो अभियान थालेको हो ।
+नेपाली बजारमा उपलब्ध स्कुटरबारे भर्खरै गरिएको एउटा स्वतन्त्र अध्ययनमा यामाहाका स्कुटरलाई ‘स्टाइल’ र ‘कम्फोर्ट’का...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49444/2018-02-26" title="">कर लगाउने गाउँपालिकाको निर्णयप्रति स्वतन्त्र ऊर्जा उत्पादन संघको आपत्ति</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १७:२१:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । चर्नावती खोला जलविद्युत् आयोजनालाई १० लाख रुपियाँ जलविद्युत् कर तिराउने दोलखाको मैलुङ गाउँपालिकाको निर्णयप्रति स्वतन्त्र ऊर्जा उत्पादन संघको आपत्ति जनाएको छ । संघद्वारा प्रवद्र्धित उक्त आयोजनामा दोहोरो कर तिर्नुपर्ने अवस्थामा संघले विरोध जनाएको हो ।
+
+संघका अध्यक्ष शैलेन्द्र...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49439/2018-02-26" title="">१६ बुँदे प्रस्तावसहित अडानको चौथो राष्ट्रिय परिषद् सम्पन्न</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १६:००:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । १६्र बुँदे विषेश प्रस्ताव जारी गर्दै नेपाल अडिटर्स एसोसिएसन (अडान)को चौथो राष्ट्रिय परिषद् सम्पन्न भएको छ । प्रदेश नम्बर ३ का सभामुख सानु कुमार श्रेष्ठको प्रमुख आतित्यतामा सम्पन्न परिषद्ले महासचिब डोलप्रसाद दाहालले प्रस्तुत गरेको सांगठनिक प्रतिवेदन तथा कोषाध्यक्ष केशवराज आचार्यले...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49436/2018-02-26" title="">नेप्से १५.७८ अंकले घट्यो</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49436/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1751444646nepse-11.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1751444646nepse-11.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  १५:३०:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । साताको दोस्रो दिन नेप्से परिसूचक १५.७८ अंकले घटेको छ । मन्त्रिपरिषद् विस्तार हुने तयारी भए पनि आजको दिन पनि शेयर बजार ओरालो लागेको छ ।
+
+सोमबार कारोबार शुरु भएको एक घण्टा स्थिर रहेको नेप्से त्यसयता सुस्त गतिमा ओरालो लागेको हो ।&nbsp;
+
+नेप्से ओरालो लागेपनि सोमबार कारोबार रकम भने बढेको छ । अघिल्लो...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49409/2018-02-26" title="">सामसङका ग्राहकहरूका लागि ‘कुकिङ क्लास’</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49409/2018-02-26" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1504908344Picture.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1504908344Picture.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १४ सोमबार  ०७:५६:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । सामसङको आधिकारीक वितरक हिम इलेक्ट्रोनिक्स प्रालीद्वारा नेपाली ग्राहकहरूका लागि माइक्रोवेभ ओभन ‘कुकिङ क्लास’ आयोजना गरिएको छ ।
+उक्त ‘कुकिङ क्लास’को आयोजना मनकामना इलेक्ट्रोनिक्स हाउस र दिनेश टे«डिङ्ग हाउस गरिएको थियो ।&nbsp;
+
+उक्त कार्यक्रम फागुन १० गते नेपालगञ्ज र फागुन १२ गते...</p>
+            </li></ul>
+                        </section>
+                    </article>
+                    <article class="padding box-shadow bg-white margin-top module-pagination
+">
+                        <section>
+                            <nav>
+                                <ul class="pagination"><li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li><li class="active"><a href="#" id="1">1</a></li><li><a href="#" id="2">2</a></li><li><a href="#" id="3">3</a></li><li><a href="#" id="4">4</a></li><li><a href="#" id="2" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="239" aria-label="Last"><span aria-hidden="true">Last</span></a></li></ul>
+                            </nav>
+                        </section>
+                    </article>
+                </div>
+                <div class="col-md-4">
+
+    <div class="margin-bottom text-center margin-top">
+                            <a href="https://www.facebook.com/CGMotocorp/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/803832560celerio_275x220px-72px_BHARKHARI_COM.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://www.ncell.axiata.com/4G/About-4G" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/80748509270x180PXL-4G21CL_NcellAx.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.cerealestate.com.np/pages/Project_Details/?id=20" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/2099779500CE-Landing-Page.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://wwww.civilbank.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1278019402Civil-Bank-New.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.nepatop.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1157847850275-x-220.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://nepallife.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/988081201NepalLife-Smart-275pxX220px-Barkhari.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://goo.gl/ZZ3UY4" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1963259576joktantra-for-baarhakhari-final-(1).gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://broadlink.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1874835243gif.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://v2sr8.app.goo.gl/Q8OH" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/94722663received_1751936781505314.gif" class="">
+                            </a>
+                        </div>
+    <article class="module bg-white ">
+        <header>
+            <h2>धेरै पढिएको</h2>
+            <a href="http://baahrakhari.com/popular-news/1/लोकप्रिय" title="">थप <i class="fa fa-ellipsis-v"></i></a>
+        </header>
+        <section>
+            <ul class="title-list">										
+                <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49586/2018-02-28" title="">                                        
+                       ‘विप्लव’को घरमा पक्राउ पुर्जी टाँसियो
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49423/2018-02-26" title="">                                        
+                       यस्तो छ विश्वकप छनोट क्रिकेटको ट्रफी, भोलि यूएईसँग अभ्यास खेल खेल्दै नेपाल
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49494/2018-02-27" title="">                                        
+                       रेलबिनाको रेल विभाग, पुरानो लैजान भारतको प्रस्ताव
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49357/2018-02-25" title="">                                        
+                       नेपाली फुटबलमा म्याच फिक्सिङ चलिरहेकै छ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49419/2018-02-26" title="">                                        
+                       सेयर मार्केट भवनमा आगलागी, ४ दमकल परिचालन
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49246/2018-02-23" title="">                                        
+                       तेस्रो बर्खामा पनि पुनर्निर्माण अधुरै, दाताका सर्तैसर्त
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49324/2018-02-24" title="">                                        
+                       शेयर बजारः एक अर्ब ७० करोडको कारोबार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49452/2018-02-26" title="">                                        
+                       सांसद नै नरहेका व्यक्ति अर्थमन्त्री बनाएको भन्दै तरुण दलको आपत्ति&nbsp;
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49369/2018-02-25" title="">                                        
+                       ‘अर्बौंको सम्पत्ति तीन करोड नेपालीलाई’
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49544/2018-02-27" title="">                                        
+                       श्रीदेवीको निधनबारे विवाद, हत्या भएको आशंका
+                        </a></h3>
+                </li>            </ul>
+        </section>
+    </article>
+
+    <div class="clearfix"></div>
+
+
+    <div class="tabbing margin-top">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#tab-2-1" aria-controls="tab-2-1" role="tab" data-toggle="tab"> भर्खरै </a></li>          
+
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="tab-2-1">
+                <ul class="title-list">
+                    <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49633/2018-03-01" title="">                                        
+                       वीरगञ्जमा प्रहरी कार्यालयकै अगाडी धागो व्यापारीमाथि गोली प्रहार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49632/2018-03-01" title="">                                        
+                       सरकार-फोरम वार्ता बालुवाटारमा जारी, संविधान संशोधनमा सहमति जुटाउने प्रयास
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49631/2018-03-01" title="">                                        
+                       राजधानीमा होलीमा कडाइ, दिउँसै ‘मापसे’ चेकिङ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49630/2018-03-01" title="">                                        
+                       होली पर्वले सद्भाव बढाउन महत्वपूर्ण भूमिका निर्वाह गर्छ : प्रधानमन्त्री ओली
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49629/2018-03-01" title="">                                        
+                       मर्यादितरुपमा होली मनाउन चार धर्मगुरुको अपिल
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49627/2018-03-01" title="">                                        
+                       कोइराला निवासबाट देउवाको हुँकार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49626/2018-03-01" title="">                                        
+                       वाम गठबन्धन र फोरमको संयुक्त बैठक बस्दै
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49625/2018-03-01" title="">                                        
+                       गोली प्रहारबाट एक युवक गम्भीर घाइते
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49624/2018-03-01" title="">                                        
+                       टोटनह्याम एफए कपको क्वाटरफाइनलमा
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49623/2018-03-01" title="">                                        
+                       पीएसजी फ्रेन्स कप फुटबलको सेमिफाइनलमा
+                        </a></h3>
+                </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>            </div>
+        </div>
+    </section>
+
+    <!--Footer-->
+    
+<footer id="site-footer">
+    
+    <div class="footer-top box-shadow padding">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-md-3">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रधान सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>प्रतीक प्रधान</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                    <article class="fbox">
+                        <header>
+                            <h3>कार्यकारी सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>गोविन्द अधिकारी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>राजेश केसी</li>
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>समाचार सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+
+                                <li>बलराम पाण्डे </li>   
+                            </ul>
+                        </section>
+                    </article>
+
+                <article class="fbox">
+                        <header>
+                            <h3>कला-साहित्य सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लेनिन बन्जाडे</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-4">
+                    <article class="fbox">
+                        <header>
+                            <h3>संवाददाता</h3>
+                        </header>
+                        <section>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul>
+
+                                        <li>सन्तोष रिमाल (अमेरिका)</li>
+                                        <li>अक्षर काका </li>
+                                        <li>नरेश फुयाँल </li>
+                                        <li>केशव सावद </li>
+                                        <li>निशान राई</li>
+                                        <li>सुरञ्जन घिमिरे </li>
+                                        <li>विजेता चौधरी</li>
+
+                                        
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>शिवनारायण गिरी</li>
+                                        <li>सरोज तामाङ</li>
+                                        <li>विष्णु बश्याल </li>
+                                        <li>ममता घिमिरे </li>
+                                        <li>रुमु न्यौपाने </li>
+                                        <li>सञ्जिता खनाल </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>मल्टिमिडिया </h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सरिता खड्का </li>
+                                <li>सौरभ रानाभाट </li>
+                                <li>विजेन्द्र गिरी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>व्यवस्थापन</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सूर्य घिमिरे (उप–महाप्रवन्धक)</li>
+                                <li>तीर्थबहादुर थापा (अर्थ\प्रशासन)</li>
+                                <li>तुला चौधरी (लेखा)</li>
+                            </ul>
+                        </section>
+                    </article>
+                    <article class="fbox">
+                        <header>
+                            <h3>बिजनेस डेभलपमेन्ट</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li> जीवन तिम्सिना    </li>
+                                <li> चारु श्रेष्ठ </li>
+                                <li> शर्मिष्ठा पण्डित अमानी     </li>
+                            </ul>
+                        </section>
+                    </article> 
+                    <article class="fbox">
+                        <header>
+                            <h3>सहयोगी</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लक्ष्मण चाैधरी / लक्ष्मी भुजेल</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+               
+
+
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध  निर्देशक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>ज्ञानेश्वर अाचार्य</li>
+                            </ul>
+                        </section>
+                    </article>
+
+
+
+                </div>
+
+
+
+                <div class="col-md-offset-10 col-md-2">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <p>
+                        © २०१६ - २०१७ बाह्रखरीद्वारा प्रकाशित/सर्वाधिकार सुरक्षित
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <p class="pb en">
+                        Powered By: <a href="http://itechnepal.com" title="" target="_blank">i-Tech Nepal</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<div class="to-top">
+    <a href="#top">
+        <i class="fa fa-arrow-circle-o-up"></i>
+    </a>
+</div>
+
+<!--<div class="fb-msg-fixed visible-xs visible-sm">
+    <div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function () {
+            FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
+        };
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = '//connect.facebook.net/en_US/sdk.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+</div>-->
+<div class="fb-msg-fixed visible-xs visible-sm">
+                    <!--<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>-->
+</div>
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.webticker.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/owl.carousel.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.lazyload.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/custom.js?ver=1.0.1"></script>
+
+<script>
+    var sheight = $(".small-ad>a>img").height();
+    var lheight = $(".big-ad>a>img").height();
+
+    $(document).ready(function () {
+
+        $(".small-ad").css("top", lheight + 'px');
+        $("#large-ad").css("height", lheight);
+        $("#btn-collapse").click(function () {
+            ad_collapse();
+        });
+        $("#btn-expand").click(function () {
+            ad_expand();
+        });
+        setTimeout(ad_collapse, 4000);
+    });
+
+    function ad_collapse() {
+        $("#large-ad").css("height", sheight);
+        $(".small-ad").css("top", -lheight + 'px');
+    }
+
+    function ad_expand() {
+        $("#large-ad").css("height", lheight);
+        $(".small-ad").css("top", "0px");
+    }
+</script>
+
+  
+    
+
+    <script>
+        $('document').ready(function () {
+            $(".pagination a").trigger('click'); // When page is loaded we trigger a click
+        });
+
+        $('.pagination').on('click', 'a', function (e) {
+            var type = '2';
+            var page = this.id;
+            var perPage = '20';
+            var pagination = '';
+            var data = {'perPage': perPage, 'page': page, 'cat': type};
+            $.ajax({
+                url: 'http://baahrakhari.com/ajax/pagination.php',
+                type: 'POST',
+                data: data,
+                dataType: 'json',
+                success: function (response) {
+                    $('.page-news-list').html(response.newsList);
+                    $('html, body').animate({ scrollTop: 0 } , "slow");
+                    if (page == 1)
+                        pagination += '<li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+                    else
+                        pagination += '<li class=""><a href="#" id="1" aria-label="First"><span aria-hidden="true">First</span></a></li><li class=""><a href="#" id="' + (page - 1) + '" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+
+                    for (var i = parseInt(page) - 3; i <= parseInt(page) + 3; i++) {
+                        //	alert(i);
+                        if (i >= 1 && i <= response.numPage) {
+
+                            if (i == page)
+                                pagination += '<li class="active"><a href="#" id="' + i + '">' + i + '</a></li>';
+                            else
+                                pagination += '<li><a href="#" id="' + i + '">' + i + '</a></li>';
+
+                        } //end of if		  	
+                    } // end for loop
+
+                    if (page == response.numPage)
+                        pagination += '<li class="disabled"><a href="#"  aria-label="Next"><span aria-hidden="true">Next</span></a></li><li class="disabled"><a href="#" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+                    else
+                        pagination += '<li><a href="#" id="' + (parseInt(page) + 1) + '" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="' + response.numPage + '" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+
+                    $('.pagination').html(pagination); // We update the pagination DIV
+                    
+
+                }, // end of success
+
+                error: function () { }
+
+            });
+
+            return false;
+
+        });
+
+
+
+    </script>
+
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100997406); }catch(e){}</script>
+
+

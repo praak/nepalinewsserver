@@ -1,0 +1,841 @@
+
+    <!--Header-->
+    <div class="container">
+    </div>
+
+<header id="site-header">
+
+    
+
+    <!--Header: Mid--->
+    <div class="header-mid">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="logo sm-center">
+                        <a href="http://baahrakhari.com/" title="">
+                            <img width="" height="" src="http://baahrakhari.com/assets/images/logo.png" alt="">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="nav-ticker-wrapper" class="affix-top">
+        <!--Site Navigation-->
+        <div class="site-navigation box-shadow-all-equal">
+            <div class="container">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand visible-sm visible-xs" href="http://baahrakhari.com/"><img src="http://baahrakhari.com/assets/images/logo.png" alt="12Khari"></a>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li><a href="http://baahrakhari.com/">गृहपृष्ठ <span class="sr-only">(current)</span></a></li>
+
+                                <li><a href="http://baahrakhari.com/special-news/1/विशेष">विशेष </a></li>
+
+                                <li><a href="http://baahrakhari.com/news-article/1/Politics">राजनीति</a></li><li><a href="http://baahrakhari.com/news-article/2/Economy">अर्थ व्यवसाय</a></li><li><a href="http://baahrakhari.com/news-article/3/Sports">खेल</a></li><li><a href="http://baahrakhari.com/news-article/4/Interview">अन्तर्वार्ता</a></li><li><a href="http://baahrakhari.com/news-article/6/Thought">विचार</a></li><li><a href="http://baahrakhari.com/news-article/7/Country">देश</a></li><li><a href="http://baahrakhari.com/news-article/8/12khari-samikchya">बाह्रखरी समीक्षा</a></li><li><a href="http://baahrakhari.com/news-article/9/Literature">साहित्य र कला</a></li><li><a href="http://baahrakhari.com/news-article/12/Blog">ब्लग</a></li><li><a href="http://baahrakhari.com/news-article/14/Editorial">सम्पादकीय</a></li><li><a href="http://baahrakhari.com/news-article/18/Foreign">विदेश</a></li>
+
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ग्यालरी<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="http://baahrakhari.com/photo-gallery/1/Cartoon">कार्टुन</a></li>            
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/photo-gallery/2/Photo">फोटो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="http://baahrakhari.com/page-video">भीडियो</a></li>
+                                        <li role="separator" class="divider"></li>
+                                       <!-- <li><a href="http://baahrakhari.com/">अडियो</a></li>
+                                        -->
+                                    </ul>
+                                </li>
+
+
+                            </ul>
+                            
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
+             </div>
+</header>
+    <!--Section-->
+    <section id="site-section">
+        <div class="container">
+            <div class="row margin-bottom ">
+                <div class="col-md-8">
+                    <article class="module bg-white">
+                        <header>
+                            <h2>राजनीति</h2>
+                        </header>
+                        <section>
+                            <ul class="page-news-list"><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49630/2018-03-01" title="">होली पर्वले सद्भाव बढाउन महत्वपूर्ण भूमिका निर्वाह गर्छ : प्रधानमन्त्री ओली</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49630/2018-03-01" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1213372966KP-Oli-(6).jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1213372966KP-Oli-(6).jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १७ बिहीबार  ०९:०२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौँ । प्रधानमन्त्री केपी शर्मा ओलीले फागुपूर्णिमाका अवसरमा स्वदेश तथा विदेशमा रहेका सम्पूर्ण नेपालीप्रति शुभकामना व्यक्त गरेका छन्।&nbsp;
+
+प्रधानमन्त्री ओलीले एक शुभकामना सन्देश दिँदै होली पर्वले नेपालीबीच सद्भाव बढाउन महत्वपूर्ण भूमिका निर्वाह गर्ने विश्वास व्यक्त गरेका छन्।&nbsp;
+
+सन्देशमा...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49626/2018-03-01" title="">वाम गठबन्धन र फोरमको संयुक्त बैठक बस्दै</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १७ बिहीबार  ०८:४३:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । सरकार विस्तार र संविधान संशोधनका विषयमा सहमति जुटाउन वाम गठबन्धन र संघीय समाजवादी फोरम नेपालका नेताबीच बिहीबार पनि बैठक बस्दैछ । बुधबार सहमति हुन नसकेपछि बिहीबार बिहान ९ बजे बैठक बस्न लागेको हो ।
+
+प्रधानमन्त्री केपी शर्मा ओली, नेकपा माओवादी केन्द्रका अध्यक्ष पुष्पकमल दाहाल र फोरमका...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49600/2018-03-01" title="">संघीय संसदको अन्तरिम कार्यविधि पहिलो बैठकले पारित गर्ने</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49600/2018-03-01" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1936318114112516224Samsad-Rebuilding-(2)..jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1936318114112516224Samsad-Rebuilding-(2)..jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १७ बिहीबार  ०३:४४:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौँ । संघीय संसद बैठक सञ्चालनका लागि ‘संसद नियमावली’ नबनुन्जेलसम्म आवश्यक पर्ने अन्तरिम कार्यविधि संसदको पहिलो बैठकले पारित गर्ने भएको छ ।&nbsp;
+
+संघीय संसद सचिवालयले संसदमा प्रतिनिधित्व गर्ने राजनीतिक दल नेकपा एमाले, नेपाली काँग्रेस, नेकपा माओवादी केन्द्र, संघीय समाजवादी फोरम नेपाल र...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49614/2018-02-28" title="">प्रदेश २ मा मन्त्रिमण्डल विस्तार</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १९:३६:००</li>
+                            </ul>
+                    </div>
+                    <p>महेन्द्रनगर । प्रदेश २ को मन्त्रिमण्डल दोस्रो पटक विस्तार भएको छ । राष्ट्रिय जनता पार्टीले दुई मन्त्रीको टुंगो लगाएपछि बुधबार दोस्रो पटक चार मन्त्री र तीन राज्यमन्त्री थपिएको हो ।&nbsp;मुख्यमन्त्री लालबाबु राउतले आज १० सदस्यीय मन्त्रिपरिषद् विस्तार गरेका हुन् । प्रदेश प्रमुख रत्नेश्वरलाल कायस्थले...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49613/2018-02-28" title="">प्रदेश ३ मा मन्त्रिपरिषद् विस्तार</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १९:३३:००</li>
+                            </ul>
+                    </div>
+                    <p>हेटौँडा । प्रदेश नं ३ मा मुख्यमन्त्री डोरमणि पौडेलले मौजुदा मन्त्रिपरिषद्मा चार जना नयाँ मन्त्री थपी मन्त्रिपरिषद् विस्तार गरेका छन् । &nbsp;नवनियुक्त मन्त्रीहरुमा नेकपा (एमाले)का तर्फबाट कैलाश ढुंगेल, अरुण नेपाल, दावा दोर्जे लामा र नेकपा माओवादी केन्द्रका युवराज दुलाल छन् । &nbsp;
+
+प्रदेश नं ३ का प्रमुख...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49612/2018-02-28" title="">फोरम सरकारमा आउने पक्का, संविधान संशोधनको विषयमा लिखित रुपमा हस्ताक्षर हुँदै</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49612/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1778383405upendra-yadav.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1778383405upendra-yadav.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १९:२९:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । संविधान संशोधनको विषयममा सरकार सकारात्मक भएपछि फोरम नेपाल सरकारमा सहभागी हुने पक्का भएको छ ।
+
+अहिले &nbsp;एमाले संसदीय दलको बैठक सिंहदबारमा अध्यक्ष एवं प्रधानमन्त्री केपी शर्मा ओली, माओवादी केन्द्रका अध्यक्ष पुष्कमल दाहाल ुप्रचण्डु र फोरम अध्यक्ष यादवबीचको बैठक जारी छ । संविधान संशोधनको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49609/2018-02-28" title="">छ दशकपछि दुई तिहाइको सरकार बन्दै : अध्यक्ष दाहाल</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49609/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1971408055prachanda@mandir.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1971408055prachanda@mandir.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १९:१५:००</li>
+                            </ul>
+                    </div>
+                    <p>पर्वत । पूर्वप्रधानमन्त्री एवम् नेकपा माओवादी केन्द्रका अध्यक्ष पुष्पकमल दाहाल ‘प्रचण्ड’ले झण्डै छ दशकपछि दुई तिहाइको सरकार बन्न लागेको बताएका छन् ।&nbsp;
+
+पर्वत सदरमुकाम कुश्मा बजारमा आजदेखि शुरु भएको दसौँ पश्चिमाञ्चलस्तरीय महिला महोत्सवको आज उद्घाटन गर्दै अध्यक्ष दाहालले विसं २०१५ पछि...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49589/2018-02-28" title="">संसद् बैठकको तयारी पूरा, रेशम चौधरीलाई शपथ गराउन माग&nbsp;</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49589/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1936318114112516224Samsad-Rebuilding-(2)..jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1936318114112516224Samsad-Rebuilding-(2)..jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १६:३२:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । संघीय संसदको पहिलो बैठक तयारीका सम्बन्धमा संसदमा प्रतिनिधित्व गर्ने पाँचदलको नेताहरुको बुधबार बसेको बैठकले अन्तरिम कार्यविधिका विषयमा छलफल गरेको छ । नयाँ बानेश्वरस्थित संघीय संसदमा दिउँसो बसेको बैठकमा २१ गते बस्ने संसद बैठकको कार्यसूची, प्रतिनिधिसभा र राष्ट्रियसभाको बैठक सञ्चालनका...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49586/2018-02-28" title="">‘विप्लव’को घरमा पक्राउ पुर्जी टाँसियो</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49586/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/10386503528548410_1850964251589844_318762263_o.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/10386503528548410_1850964251589844_318762263_o.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १५:१७:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं &nbsp;। नेपाल कम्युनिष्ट पार्टीका महासचिव नेत्रविक्रम चन्द ‘विप्लव’विरुद्ध कपिलवस्तु प्रहरीले पक्राउ पुर्जी जारी गरेको छ । चन्दमाथि ज्यान मार्ने उद्योग र विस्फोटक पदार्थ ओसारपसारको मुद्दाको कसुरमा भोजपुर जिल्ला अदालतले पक्राउ गर्न आदेश दिएपछि प्रहरीले पुर्जी जारी गरेको हो । विप्लवको...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49581/2018-02-28" title="">आन्दोलनकारीमाथि गोली वर्षाउने र दीपावली मनाउने एउटै भातभान्सामा : डा. भट्टराई</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49581/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1332775185baburam-bhattarai.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1332775185baburam-bhattarai.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १४:३१:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । नयाँ शक्ति पार्टी नेपालका संयोजक एवं पूर्वप्रधानमन्त्री डा बाबुराम भट्टराईले सरकारले संविधान संशोधन गरेर मधेसकेन्द्रीत दललाई पनि सरकारमा ल्याउन लागेको भन्दै खुशी लागेको टीप्पणी गरेका छन् ।
+
+संयोजक भट्टराईले बुधबार सामाजिक सञ्जाल ट्वीटरमा संविधानको विरोध र समर्थन गर्नेहरु अहिले एउटै...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49580/2018-02-28" title="">सबै क्षेत्रलाई समेटेर प्रादेशिक ऐन बनाउँछौं– मुख्यमन्त्री गुरुङ</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १४:२०:००</li>
+                            </ul>
+                    </div>
+                    <p>पोखरा, रासस । प्रदेश नं ४ का मुख्यमन्त्री पृथ्वीसुब्बा गुरुङले नेपालको संविधान र अन्तर्राष्ट्रिय सन्धि सम्झौताको आधारमा सबै क्षेत्रलाई समेट्ने गरी प्रादेशिक ऐन कानून निर्माण गरिने बताएका छन् । राष्ट्रिय अपाङग महासंघ नेपाल कास्की तथा आइएनएफद्वारा संयुक्त रुपमा आयोजित अपाङ्गताको सवालमा स्थानीय र...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49576/2018-02-28" title="">वैद्य र विप्लव माओवादीबीच कार्यगत एकता, चारबुँदे सहमति</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १३:३९:००</li>
+                            </ul>
+                    </div>
+                    <p>चितवन, रासस । मोहन वैद्य नेतृत्वको नेकपा क्रान्तिकारी माओवादी र नेत्रविक्रम चन्द, ‘विप्लव’ नेतृत्वको नेपाल कम्युनिष्ट पार्टी चितवनबीच कार्यगत एकता भएको छ ।&nbsp;
+
+मंगलबार बसेको संयुक्त बैठकले कार्यगत एकता गर्ने सहमति गर्दै चारबुँदे संयुक्त विज्ञप्ति जारी गरेको छ । नेकपा क्रान्तिकारी माओवादी...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49575/2018-02-28" title="">देश विकासका लागि कुनै कसर बाँकी राख्दिनँ : प्रधानमन्त्री ओली</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49575/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/138984337628554647_2064863233798901_2090747337_o.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/138984337628554647_2064863233798901_2090747337_o.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  १३:२८:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । प्रधानमन्त्री केपी शर्मा ओलीले देश विकासका लागि कुनै कसर बाँकी नराख्ने बताएका छन् । उनले सबै मिलेर देश विकास गर्नु आजको आवश्यकता रहेको औँल्याए । राष्ट्रिय सेवा दलको १३ औँ कवाज दीक्षान्त समारोहमा शुभकामना मन्तव्य राख्दै उनले देश विकास नै अबको लक्ष्य र उद्देश्य भएको प्रष्ट्याए ।
+
+सिनियर...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49573/2018-02-28" title="">प्रदेशमा २ मा थपिए मन्त्री, राजपाभित्र विवाद</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49573/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/45553967pardesh-no-2.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/45553967pardesh-no-2.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ११:५६:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । २ नम्बर प्रदेशमा मन्त्रिपरिषद् विस्तार भएको छ । संघीय समाजवादी फोरमले २ मन्त्री र ३ राज्यमन्त्री नाम सिफारिस गरेपछि मन्त्रिमण्डल बिस्तार भएको हो ।
+
+राजपामा आन्तरिक किचलो उत्पन्न भएपछि उसले नाम पठाउन सकेको छैन । फोरमले आन्तरिक मामिला तथा कानुनमन्त्रीमा ज्ञानेन्द्रकुमार यादवलाइ सिफारिस...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49568/2018-02-28" title="">प्रदेश ३ को मन्त्रीमण्डललाई पूर्णता दिँदै मुख्यमन्त्री पौडेल, पाँच बजे शपथग्रहण</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49568/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1941537285dormani-poudel.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1941537285dormani-poudel.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ११:०९:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं । प्रदेश नम्बर ३ का मुख्यमन्त्री डोरमणि पौडेलले एमालेबाट ३ र माओवादी केन्द्रबाट एक मन्त्री थपेर ७ सदस्यीय मन्त्रीमण्डललाई पूर्णता दिँदैछन् । सपग्रहणको कार्यक्रम साँझ पाँच बजे राखिएको छ । पौडेलले यसअघि माओवादी केन्द्रका युवा नेता शालिकराम जम्मकट्टेललाई गृह र एमाले नेता केशव स्थापितलाई...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49548/2018-02-28" title="">एमाले–माओवादी एकता घोषणाको तयारी तीव्र, कार्यदलले बनायो दुईवटा उपसमिति</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49548/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1974248989ghatbandhan.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1974248989ghatbandhan.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०५:१९:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं &nbsp;। नेकपा एमाले र माओवादी केन्द्रबीचको एकता प्रक्रियाले तीव्रता पाएको छ ।
+
+अन्तरिम विधान तथा संगठनात्मक संरचना निर्माण गर्न गठित अन्तरिम विधान तथा संरचना निर्माण कार्यदलले गृहकार्यको कामर्लाइ तीव्रता दिएको हो । कार्यदलले आवश्यक गृहकार्य गर्न भन्दै दुईवटा उपसमिति गठन गरेको छ...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49542/2018-02-28" title="">‘राष्ट्रपति को बन्छ ? भन्नेबारे अन्तिम टुंगो लागेको छैन’</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49542/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1970815553Bhim-Rawal.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1970815553Bhim-Rawal.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०५:१४:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौं &nbsp;। नेकपा एमालेका उपाध्यक्ष भीम रावलले यही फागुन २५ गतेभित्रै एमाले–माओवादी केन्द्रबीचको एकतासम्बन्धी अन्तरिम विधान र राजनीतिक प्रतिवेदन टुंगो लगाउने र चैतको पहिलो साताभित्रै &nbsp;बृहत्त एकता घोषणा गर्ने स्पष्ट पारेका छन् ।&nbsp;
+
+मंगलबार रिपोर्टर्स क्लबमा रावलले भने, “फागुन २५ गतेभित्रै...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49541/2018-02-28" title="">प्रदेशभित्र सञ्चालित योजना पहिचान गरी विवरण तयार गर्न निर्देशन</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०२:१२:००</li>
+                            </ul>
+                    </div>
+                    <p>पोखरा । &nbsp;मुख्यमन्त्री पृथ्वीसुब्बा गुरुङले प्रदेश नं ४ भित्रका ११ वटै जिल्लामा सञ्चालित योजनाको पहिचान गरी विवरण तयार गर्न पूर्वाधार विकास समितिलाई निर्देशन दिएका छन् ।&nbsp;
+
+पूर्वाधार निर्माण समितिको आजको बैठकमा मुख्यमन्त्री गुरुङले प्रदेशको दीर्घकालीन विकासका योजना तय गर्नाका साथै गौरवका...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49551/2018-02-28" title="">नेपाल र रुसको सम्बन्ध थप प्रगाढ बनाउन प्रधानमन्त्री प्रतिबद्ध</a></h3>
+                    
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ०१:२४:००</li>
+                            </ul>
+                    </div>
+                    <p>
+काठमाडौं । प्रधानमन्त्री केपी शर्मा ओलीले नेपाल र रुसबीचको सम्बन्ध थप प्रगाढ बनाउनुपर्नेमा जोड दिएका छन् ।&nbsp;
+
+प्रधानमन्त्री निवास बालुवाटारमा प्रधानमन्त्रीलाई भेट्न आएको रसियाको एकातेरिनवर्ग प्रान्तका उपगभर्नर अलेक्जेण्डर भिसोकिन्सी नेतृत्वको प्रमण्डलसँग आज उनले दुई देशबीचको सम्बन्ध थप...</p>
+            </li><li>
+                    <h3><a href="http://baahrakhari.com/news-details/49545/2018-02-28" title="">चैतमा वाम गठबन्धनको नयाँ पार्टी घोषणा हुन्छ : उपाध्यक्ष रावल</a></h3>
+                    <a href="http://baahrakhari.com/news-details/49545/2018-02-28" title=""><img width="" height="" class="lazy" data-original="http://baahrakhari.com/uploads/news/images/thumb350/1970815553Bhim-Rawal.jpeg" alt="" src="http://baahrakhari.com/uploads/news/images/thumb350/1970815553Bhim-Rawal.jpeg" style="display: block;"></a>
+
+                    <div class="postinfo">
+                            <ul>
+                                <li> <i class="fa fa-user"></i>  बाह्रखरी</li>
+                                <li><i class="fa fa-calendar"></i> २०७४ फागुन  १६ बुधबार  ००:१७:००</li>
+                            </ul>
+                    </div>
+                    <p>काठमाडौँ । नेकपा (एमाले)का उपाध्यक्ष भीम रावलले आगामी चैतको पहिलो हप्ताभित्रै वाम गठबन्धनको एकता गरी नयाँ पार्टी घोषणा गरिने बताएका छन् ।&nbsp;
+
+रिपोर्टर्स क्लब नेपालले आज आयोजना गरेको साक्षात्कारमा उपाध्यक्ष रावलले यही फागुन २५ गतेभित्रै एमाले–माओवादी केन्द्रवीचको एकतासम्बन्धी अन्तरिम विधान र...</p>
+            </li></ul>
+                        </section>
+                    </article>
+                    <article class="padding box-shadow bg-white margin-top module-pagination
+">
+                        <section>
+                            <nav>
+                                <ul class="pagination"><li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li><li class="active"><a href="#" id="1">1</a></li><li><a href="#" id="2">2</a></li><li><a href="#" id="3">3</a></li><li><a href="#" id="4">4</a></li><li><a href="#" id="2" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="516" aria-label="Last"><span aria-hidden="true">Last</span></a></li></ul>
+                            </nav>
+                        </section>
+                    </article>
+                </div>
+                <div class="col-md-4">
+
+    <div class="margin-bottom text-center margin-top">
+                            <a href="https://www.facebook.com/CGMotocorp/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/803832560celerio_275x220px-72px_BHARKHARI_COM.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://www.ncell.axiata.com/4G/About-4G" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/80748509270x180PXL-4G21CL_NcellAx.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.cerealestate.com.np/pages/Project_Details/?id=20" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/2099779500CE-Landing-Page.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://wwww.civilbank.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1278019402Civil-Bank-New.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://www.nepatop.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1157847850275-x-220.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://nepallife.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/988081201NepalLife-Smart-275pxX220px-Barkhari.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://goo.gl/ZZ3UY4" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1963259576joktantra-for-baarhakhari-final-(1).gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="https://broadlink.com.np/" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/1874835243gif.gif" class="">
+                            </a>
+                        </div><div class="margin-bottom text-center margin-top">
+                            <a href="http://v2sr8.app.goo.gl/Q8OH" title="" target="_blank">
+                               <img alt="ad" src="http://baahrakhari.com/uploads/advertise/94722663received_1751936781505314.gif" class="">
+                            </a>
+                        </div>
+    <article class="module bg-white ">
+        <header>
+            <h2>धेरै पढिएको</h2>
+            <a href="http://baahrakhari.com/popular-news/1/लोकप्रिय" title="">थप <i class="fa fa-ellipsis-v"></i></a>
+        </header>
+        <section>
+            <ul class="title-list">										
+                <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49586/2018-02-28" title="">                                        
+                       ‘विप्लव’को घरमा पक्राउ पुर्जी टाँसियो
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49423/2018-02-26" title="">                                        
+                       यस्तो छ विश्वकप छनोट क्रिकेटको ट्रफी, भोलि यूएईसँग अभ्यास खेल खेल्दै नेपाल
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49494/2018-02-27" title="">                                        
+                       रेलबिनाको रेल विभाग, पुरानो लैजान भारतको प्रस्ताव
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49357/2018-02-25" title="">                                        
+                       नेपाली फुटबलमा म्याच फिक्सिङ चलिरहेकै छ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49419/2018-02-26" title="">                                        
+                       सेयर मार्केट भवनमा आगलागी, ४ दमकल परिचालन
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49246/2018-02-23" title="">                                        
+                       तेस्रो बर्खामा पनि पुनर्निर्माण अधुरै, दाताका सर्तैसर्त
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49324/2018-02-24" title="">                                        
+                       शेयर बजारः एक अर्ब ७० करोडको कारोबार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49452/2018-02-26" title="">                                        
+                       सांसद नै नरहेका व्यक्ति अर्थमन्त्री बनाएको भन्दै तरुण दलको आपत्ति&nbsp;
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49369/2018-02-25" title="">                                        
+                       ‘अर्बौंको सम्पत्ति तीन करोड नेपालीलाई’
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49544/2018-02-27" title="">                                        
+                       श्रीदेवीको निधनबारे विवाद, हत्या भएको आशंका
+                        </a></h3>
+                </li>            </ul>
+        </section>
+    </article>
+
+    <div class="clearfix"></div>
+
+
+    <div class="tabbing margin-top">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#tab-2-1" aria-controls="tab-2-1" role="tab" data-toggle="tab"> भर्खरै </a></li>          
+
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="tab-2-1">
+                <ul class="title-list">
+                    <li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49633/2018-03-01" title="">                                        
+                       वीरगञ्जमा प्रहरी कार्यालयकै अगाडी धागो व्यापारीमाथि गोली प्रहार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49632/2018-03-01" title="">                                        
+                       सरकार-फोरम वार्ता बालुवाटारमा जारी, संविधान संशोधनमा सहमति जुटाउने प्रयास
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49631/2018-03-01" title="">                                        
+                       राजधानीमा होलीमा कडाइ, दिउँसै ‘मापसे’ चेकिङ
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49630/2018-03-01" title="">                                        
+                       होली पर्वले सद्भाव बढाउन महत्वपूर्ण भूमिका निर्वाह गर्छ : प्रधानमन्त्री ओली
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49629/2018-03-01" title="">                                        
+                       मर्यादितरुपमा होली मनाउन चार धर्मगुरुको अपिल
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49627/2018-03-01" title="">                                        
+                       कोइराला निवासबाट देउवाको हुँकार
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49626/2018-03-01" title="">                                        
+                       वाम गठबन्धन र फोरमको संयुक्त बैठक बस्दै
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49625/2018-03-01" title="">                                        
+                       गोली प्रहारबाट एक युवक गम्भीर घाइते
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49624/2018-03-01" title="">                                        
+                       टोटनह्याम एफए कपको क्वाटरफाइनलमा
+                        </a></h3>
+                </li><li>
+                         <h3> <a href="http://baahrakhari.com/news-details/49623/2018-03-01" title="">                                        
+                       पीएसजी फ्रेन्स कप फुटबलको सेमिफाइनलमा
+                        </a></h3>
+                </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>            </div>
+        </div>
+    </section>
+
+    <!--Footer-->
+    
+<footer id="site-footer">
+    
+    <div class="footer-top box-shadow padding">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-md-3">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रधान सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>प्रतीक प्रधान</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                    <article class="fbox">
+                        <header>
+                            <h3>कार्यकारी सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>गोविन्द अधिकारी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>राजेश केसी</li>
+                            </ul>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>समाचार सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+
+                                <li>बलराम पाण्डे </li>   
+                            </ul>
+                        </section>
+                    </article>
+
+                <article class="fbox">
+                        <header>
+                            <h3>कला-साहित्य सम्पादक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लेनिन बन्जाडे</li>
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-4">
+                    <article class="fbox">
+                        <header>
+                            <h3>संवाददाता</h3>
+                        </header>
+                        <section>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul>
+
+                                        <li>सन्तोष रिमाल (अमेरिका)</li>
+                                        <li>अक्षर काका </li>
+                                        <li>नरेश फुयाँल </li>
+                                        <li>केशव सावद </li>
+                                        <li>निशान राई</li>
+                                        <li>सुरञ्जन घिमिरे </li>
+                                        <li>विजेता चौधरी</li>
+
+                                        
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>शिवनारायण गिरी</li>
+                                        <li>सरोज तामाङ</li>
+                                        <li>विष्णु बश्याल </li>
+                                        <li>ममता घिमिरे </li>
+                                        <li>रुमु न्यौपाने </li>
+                                        <li>सञ्जिता खनाल </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </section>
+                    </article>
+                    
+                    <article class="fbox">
+                        <header>
+                            <h3>मल्टिमिडिया </h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सरिता खड्का </li>
+                                <li>सौरभ रानाभाट </li>
+                                <li>विजेन्द्र गिरी</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>व्यवस्थापन</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>सूर्य घिमिरे (उप–महाप्रवन्धक)</li>
+                                <li>तीर्थबहादुर थापा (अर्थ\प्रशासन)</li>
+                                <li>तुला चौधरी (लेखा)</li>
+                            </ul>
+                        </section>
+                    </article>
+                    <article class="fbox">
+                        <header>
+                            <h3>बिजनेस डेभलपमेन्ट</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li> जीवन तिम्सिना    </li>
+                                <li> चारु श्रेष्ठ </li>
+                                <li> शर्मिष्ठा पण्डित अमानी     </li>
+                            </ul>
+                        </section>
+                    </article> 
+                    <article class="fbox">
+                        <header>
+                            <h3>सहयोगी</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>लक्ष्मण चाैधरी / लक्ष्मी भुजेल</li>
+
+                            </ul>
+                        </section>
+                    </article>
+
+                </div>
+               
+
+
+                <div class="col-md-2">
+                    <article class="fbox">
+                        <header>
+                            <h3>प्रबन्ध  निर्देशक</h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <li>ज्ञानेश्वर अाचार्य</li>
+                            </ul>
+                        </section>
+                    </article>
+
+
+
+                </div>
+
+
+
+                <div class="col-md-offset-10 col-md-2">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <p>
+                        © २०१६ - २०१७ बाह्रखरीद्वारा प्रकाशित/सर्वाधिकार सुरक्षित
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <p class="pb en">
+                        Powered By: <a href="http://itechnepal.com" title="" target="_blank">i-Tech Nepal</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<div class="to-top">
+    <a href="#top">
+        <i class="fa fa-arrow-circle-o-up"></i>
+    </a>
+</div>
+
+<!--<div class="fb-msg-fixed visible-xs visible-sm">
+    <div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function () {
+            FB.init({appId: '1678638095724206', xfbml: true, version: 'v2.6'});
+        };
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = '//connect.facebook.net/en_US/sdk.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+</div>-->
+<div class="fb-msg-fixed visible-xs visible-sm">
+                    <!--<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='514693375375792' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>-->
+</div>
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.webticker.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/owl.carousel.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/jquery.lazyload.min.js"></script>
+<script src="http://baahrakhari.com/assets/js/custom.js?ver=1.0.1"></script>
+
+<script>
+    var sheight = $(".small-ad>a>img").height();
+    var lheight = $(".big-ad>a>img").height();
+
+    $(document).ready(function () {
+
+        $(".small-ad").css("top", lheight + 'px');
+        $("#large-ad").css("height", lheight);
+        $("#btn-collapse").click(function () {
+            ad_collapse();
+        });
+        $("#btn-expand").click(function () {
+            ad_expand();
+        });
+        setTimeout(ad_collapse, 4000);
+    });
+
+    function ad_collapse() {
+        $("#large-ad").css("height", sheight);
+        $(".small-ad").css("top", -lheight + 'px');
+    }
+
+    function ad_expand() {
+        $("#large-ad").css("height", lheight);
+        $(".small-ad").css("top", "0px");
+    }
+</script>
+
+  
+    
+
+    <script>
+        $('document').ready(function () {
+            $(".pagination a").trigger('click'); // When page is loaded we trigger a click
+        });
+
+        $('.pagination').on('click', 'a', function (e) {
+            var type = '1';
+            var page = this.id;
+            var perPage = '20';
+            var pagination = '';
+            var data = {'perPage': perPage, 'page': page, 'cat': type};
+            $.ajax({
+                url: 'http://baahrakhari.com/ajax/pagination.php',
+                type: 'POST',
+                data: data,
+                dataType: 'json',
+                success: function (response) {
+                    $('.page-news-list').html(response.newsList);
+                    $('html, body').animate({ scrollTop: 0 } , "slow");
+                    if (page == 1)
+                        pagination += '<li class="disabled"><a href="#" aria-label="First"><span aria-hidden="true">First</span></a></li><li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+                    else
+                        pagination += '<li class=""><a href="#" id="1" aria-label="First"><span aria-hidden="true">First</span></a></li><li class=""><a href="#" id="' + (page - 1) + '" aria-label="Previous"><span aria-hidden="true">Previous</span></a></li>';
+
+                    for (var i = parseInt(page) - 3; i <= parseInt(page) + 3; i++) {
+                        //	alert(i);
+                        if (i >= 1 && i <= response.numPage) {
+
+                            if (i == page)
+                                pagination += '<li class="active"><a href="#" id="' + i + '">' + i + '</a></li>';
+                            else
+                                pagination += '<li><a href="#" id="' + i + '">' + i + '</a></li>';
+
+                        } //end of if		  	
+                    } // end for loop
+
+                    if (page == response.numPage)
+                        pagination += '<li class="disabled"><a href="#"  aria-label="Next"><span aria-hidden="true">Next</span></a></li><li class="disabled"><a href="#" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+                    else
+                        pagination += '<li><a href="#" id="' + (parseInt(page) + 1) + '" aria-label="Next"><span aria-hidden="true">Next</span></a></li><li><a href="#" id="' + response.numPage + '" aria-label="Last"><span aria-hidden="true">Last</span></a></li>';
+
+                    $('.pagination').html(pagination); // We update the pagination DIV
+                    
+
+                }, // end of success
+
+                error: function () { }
+
+            });
+
+            return false;
+
+        });
+
+
+
+    </script>
+
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100997406); }catch(e){}</script>
+
+

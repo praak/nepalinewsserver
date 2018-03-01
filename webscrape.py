@@ -17,19 +17,19 @@ def parsing_Site(urls):
 		# chrome_options = Options()  
 		# chrome_options.add_argument("--headless")  
 		# browser = webdriver.Chrome(chrome_options=chrome_options)
-		browser = webdriver.Chrome()
+		# browser = webdriver.Chrome()
 		# browser.set_window_size(1120, 550)
-		browser.implicitly_wait(10)
-		print(url)
-		browser.get(url)
-		innerHTML = browser.execute_script("return document.body.innerHTML") 
+		# browser.implicitly_wait(10)
+		# print(url)
+		# browser.get(url)
+		# innerHTML = browser.execute_script("return document.body.innerHTML") 
 
 		#returns the inner HTML as a string
-		time.sleep(.200)
-		with open('output{0}.txt'.format(count),'w') as myfile:
-			for line in innerHTML:
-				myfile.write(line)
-		time.sleep(.200)
+		# time.sleep(.200)
+		# with open('output{0}.txt'.format(count),'w') as myfile:
+		# 	for line in innerHTML:
+		# 		myfile.write(line)
+		# time.sleep(.200)
 		with open('output{0}.txt'.format(count), 'r') as myfile:
 		    data=myfile.read().replace('\n', '')
 		
