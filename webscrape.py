@@ -36,7 +36,7 @@ def parsing_Site(urls):
 		page_soup = soup(data, 'html.parser')
 		count += 1
 
-		browser.close()
+		# browser.close()
 		baahrakhari(page_soup)
 
 def baahrakhari(page_soup):
