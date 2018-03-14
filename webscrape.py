@@ -11,29 +11,33 @@ from article import Article
 # All articles go into this list, which holds Article Objects. 
 articleList = []
 
-def parsing_Site(urls):
+def parsingSite(urls,siteName = ''):
 	count = 0
 	for url in urls:
-		# chrome_options = Options()  
-		# chrome_options.add_argument("--headless")  
-		# browser = webdriver.Chrome(chrome_options=chrome_options)
+		chrome_options = Options()  
+		chrome_options.add_argument("--headless")  
+		chrome_options.add_argument("--no-sandbox")
+		chrome_options.add_argument("window-size=1120,550")
+		browser = webdriver.Chrome(chrome_options=chrome_options)
+		
 		# browser = webdriver.Chrome()
-		# browser.set_window_size(1120, 550)
-		# browser.implicitly_wait(10)
-		# print(url)
-		# browser.get(url)
-		# innerHTML = browser.execute_script("return document.body.innerHTML") 
+		# # browser.set_window_size(1120, 550)
+		browser.implicitly_wait(20)
+		print(url)
+		browser.get(url)
+		innerHTML = browser.execute_script("return document.body.innerHTML") 
 
-		#returns the inner HTML as a string
+		# # returns the inner HTML as a string
 		# time.sleep(.200)
 		# with open('output{0}.txt'.format(count),'w') as myfile:
 		# 	for line in innerHTML:
 		# 		myfile.write(line)
 		# time.sleep(.200)
-		with open('output{0}.txt'.format(count), 'r') as myfile:
-		    data=myfile.read().replace('\n', '')
+		# with open('output{0}.txt'.format(count), 'r') as myfile:
+		#     data=myfile.read().replace('\n', '')
 		
-		page_soup = soup(data, 'html.parser')
+		# page_soup = soup(data, 'html.parser')
+		page_soup = soup(innerHTML, 'html.parser')
 		count += 1
 
 		# browser.close()
@@ -66,6 +70,8 @@ def baahrakhari(page_soup):
 		# 	title_.append("None")
 		# 	imageLink_.append("None")
 
+# def kantipur(page_soup):
+
 # def printTest(link_,imageLink_,description_,title_):
 # 	print('Link: ' + str(len(link_)))
 # 	print('ImageLink: ' + str(len(imageLink_)))
@@ -84,21 +90,39 @@ def articleObjectTest():
 def makeArticleObject(source,title,description,link,imgLink):
 	article = Article(title, description, link, imgLink, source)
 	articleList.append(article)
-	print('-Article')
+	# print('-Article')
 
 def main():
-	# title_ = []
-	# link_  = []
-	# imageLink_ = []
-	# description_ = []
 
 	b12_baseUrl = 'http://baahrakhari.com/'
 	b12_categories = ['special-news/1/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7','news-article/1/Politics','news-article/2/Economy','news-article/3/Sports','news-article/4/Interview','news-article/6/Thought','news-article/7/Country','news-article/8/12khari-samikchya','news-article/9/Literature','news-article/12/Blog','news-article/14/Editorial','news-article/15/Foreign']
-	b12_url = [b12_baseUrl + x for x in b12_categories]
-	parsing_Site(b12_url)
+	b12_url = [b12_baseUrl + url for url in b12_categories]
+	parsingSite(b12_url)
 
 	# articleObjectTest()
 	print(len(articleList))
+	for article in articleList[0:3]:
+		print('')
+		print(article.info())
+
+"""
+TODO:
+Kantipur = has e-paper option. Should add link to that in the app for user's option
+
+Setopati = has continuous scrolling and pagination loading of articles, need to consider doing the first 15 - 20 articles for each parse.  (assuming that top most news is the newest. Otherwise will require a new way to figure this out)
+
+Nagarik = structure of html doesnt seem to be general for all the news on theri catgory pages needs checking for confirmation
+"""
+
+# TODO: Anothoer list for passting search values for each news site. 
+## Parsing tags for article. 
+
+	siteList = ['kantipur','ktmpost','setopati','nagariknews','republica']
+
+
+	baseUrlDict = {'kantipur':'https://www.kantipurdaily.com','ktmpost':'http://kathmandupost.ekantipur.com/category','':'setopati':'https://setopati.com','nagarik':'http://nagariknews.com/','republica':'http://www.myrepublica.com/'}
+
+	siteCategoryDict = {'kantipur': ['/news','/business','/opinion','/sports','/national','/koseli','/world','/entertainment','/blog','/feature','/photo_feature','/lifestyle','/literature','/technology','/health','/Interview','/pathakmanch'], 'ktmpost': ['/general','/national','/capital','/silver-linings','/sports','/editorial','/oped','/photo-feature','/interview','/entertainment','/world','/blog','/escalate','/'], 'setopati': ['/politics','/social','/opinion','/entertainment','/sports','/setopati-blog','/literature','/global','/photo-gallery'],'nagariknews':['/category/21','/category/22','/category/24','/category/25','/category/26','/category/27','/category/28','/category/33','/category/81','/category/82'],'republica':['/category/23','/category/22','/category/24','/category/26','/category/27','/category/81','/category/35','/category/117','/category/137']}
 
 
 if __name__== "__main__":
